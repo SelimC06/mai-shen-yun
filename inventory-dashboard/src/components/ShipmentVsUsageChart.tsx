@@ -80,20 +80,20 @@ const ShipmentVsUsageChart: React.FC<Props> = ({ usage, shipments }) => {
                             verticalAlign="top"
                             align="right"
                             iconSize={8}
-                            wrapperStyle={{ fontSize: 13, fontWeight:'bold' }}
+                            wrapperStyle={{ fontSize: 13, fontWeight:'bold', paddingBottom: 15}}
                         />
 
                         <Bar
-                            dataKey="estimated"
+                            dataKey="usage"
                             name="Estimated usage"
                             fill="#000000ff"
                             radius={[4, 4, 0, 0]}
                         >
                             <LabelList
-                                dataKey="estimated"
+                                dataKey="usage"
                                 position="top"
-                                formatter={(v: any) => v ? (v >= 100 ? v.toFixed(0) : v.toFixed(2)) : ""}
-                                fontSize={14}
+                                formatter={(v: any) => (v ? v.toFixed(0) : "")}
+                                fontSize={10}
                                 fill="#000000ff"
                             />
                         </Bar>
@@ -108,7 +108,7 @@ const ShipmentVsUsageChart: React.FC<Props> = ({ usage, shipments }) => {
                                 dataKey="shipment"
                                 position="top"
                                 formatter={(v: any) => (v ? v.toFixed(0) : "")}
-                                fontSize={14}
+                                fontSize={10}
                                 fill="#ff0000ff"
                             />
                         </Bar>

@@ -1,100 +1,152 @@
 [
   {
-    "ingredient": "Beef",
+    "ingredient": "Braised Pork(g)",
     "quantity_per_shipment": 40.0,
     "unit": "lbs",
-    "shipments_per_month": 3.0,
-    "frequency": "weekly"
+    "number_of_shipments": 3.0,
+    "frequency": "weekly",
+    "shipments_per_month": 12.0,
+    "monthly_quantity": 480.0,
+    "monthly_quantity_grams": 217724.16
   },
   {
-    "ingredient": "Chicken",
+    "ingredient": "Braised Chicken(g)",
     "quantity_per_shipment": 40.0,
     "unit": "lbs",
-    "shipments_per_month": 2.0,
-    "frequency": "weekly"
+    "number_of_shipments": 2.0,
+    "frequency": "weekly",
+    "shipments_per_month": 8.0,
+    "monthly_quantity": 320.0,
+    "monthly_quantity_grams": 145149.44
   },
   {
     "ingredient": "Ramen",
     "quantity_per_shipment": 50.0,
     "unit": "rolls",
-    "shipments_per_month": 15.0,
-    "frequency": "biweekly"
+    "number_of_shipments": 15.0,
+    "frequency": "biweekly",
+    "shipments_per_month": 30.0,
+    "monthly_quantity": 1500.0,
+    "monthly_quantity_grams": null
   },
   {
     "ingredient": "Rice Noodles",
     "quantity_per_shipment": 50.0,
     "unit": "lbs",
+    "number_of_shipments": 2.0,
+    "frequency": "monthly",
     "shipments_per_month": 2.0,
-    "frequency": "monthly"
+    "monthly_quantity": 100.0,
+    "monthly_quantity_grams": 45359.2
   },
   {
     "ingredient": "Flour",
     "quantity_per_shipment": 50.0,
     "unit": "lbs",
+    "number_of_shipments": 2.0,
+    "frequency": "monthly",
     "shipments_per_month": 2.0,
-    "frequency": "monthly"
+    "monthly_quantity": 100.0,
+    "monthly_quantity_grams": 45359.2
   },
   {
     "ingredient": "Tapioca Starch",
     "quantity_per_shipment": 25.0,
     "unit": "lbs",
+    "number_of_shipments": 1.0,
+    "frequency": "monthly",
     "shipments_per_month": 1.0,
-    "frequency": "monthly"
+    "monthly_quantity": 25.0,
+    "monthly_quantity_grams": 11339.8
   },
   {
     "ingredient": "Rice",
     "quantity_per_shipment": 50.0,
     "unit": "lbs",
-    "shipments_per_month": 2.0,
-    "frequency": "Biweekly"
+    "number_of_shipments": 2.0,
+    "frequency": "Biweekly",
+    "shipments_per_month": 4.0,
+    "monthly_quantity": 200.0,
+    "monthly_quantity_grams": 90718.4
   },
   {
     "ingredient": "Green Onion",
     "quantity_per_shipment": 20.0,
     "unit": "lbs",
-    "shipments_per_month": 2.0,
-    "frequency": "weekly"
+    "number_of_shipments": 2.0,
+    "frequency": "weekly",
+    "shipments_per_month": 8.0,
+    "monthly_quantity": 160.0,
+    "monthly_quantity_grams": 72574.72
   },
   {
     "ingredient": "White Onion",
     "quantity_per_shipment": 80.0,
     "unit": "whole onion",
-    "shipments_per_month": 4.0,
-    "frequency": "weekly"
+    "number_of_shipments": 4.0,
+    "frequency": "weekly",
+    "shipments_per_month": 16.0,
+    "monthly_quantity": 1280.0,
+    "monthly_quantity_grams": null
   },
   {
     "ingredient": "Cilantro",
     "quantity_per_shipment": 5.0,
     "unit": "lbs",
-    "shipments_per_month": 2.0,
-    "frequency": "weekly"
+    "number_of_shipments": 2.0,
+    "frequency": "weekly",
+    "shipments_per_month": 8.0,
+    "monthly_quantity": 40.0,
+    "monthly_quantity_grams": 18143.68
   },
   {
     "ingredient": "Egg",
     "quantity_per_shipment": 120.0,
     "unit": "eggs",
-    "shipments_per_month": 5.0,
-    "frequency": "weekly"
+    "number_of_shipments": 5.0,
+    "frequency": "weekly",
+    "shipments_per_month": 20.0,
+    "monthly_quantity": 2400.0,
+    "monthly_quantity_grams": null
   },
   {
-    "ingredient": "Peas + Carrot",
-    "quantity_per_shipment": 40.0,
+    "ingredient": "Peas(g)",
+    "quantity_per_shipment": 20.0,
     "unit": "lbs",
-    "shipments_per_month": 3.0,
-    "frequency": "weekly"
+    "number_of_shipments": 3.0,
+    "frequency": "weekly",
+    "shipments_per_month": 12.0,
+    "monthly_quantity": 240.0,
+    "monthly_quantity_grams": 108862.08
   },
   {
-    "ingredient": "Bokchoy",
+    "ingredient": "Carrot(g)",
+    "quantity_per_shipment": 20.0,
+    "unit": "lbs",
+    "number_of_shipments": 3.0,
+    "frequency": "weekly",
+    "shipments_per_month": 12.0,
+    "monthly_quantity": 240.0,
+    "monthly_quantity_grams": 108862.08
+  },
+  {
+    "ingredient": "Boychoy(g)",
     "quantity_per_shipment": 25.0,
     "unit": "lbs",
-    "shipments_per_month": 5.0,
-    "frequency": "weekly"
+    "number_of_shipments": 5.0,
+    "frequency": "weekly",
+    "shipments_per_month": 20.0,
+    "monthly_quantity": 500.0,
+    "monthly_quantity_grams": 226796.0
   },
   {
     "ingredient": "Chicken Wings",
     "quantity_per_shipment": 380.0,
     "unit": "pieces",
-    "shipments_per_month": 10.0,
-    "frequency": "weekly"
+    "number_of_shipments": 10.0,
+    "frequency": "weekly",
+    "shipments_per_month": 40.0,
+    "monthly_quantity": 15200.0,
+    "monthly_quantity_grams": null
   }
 ]

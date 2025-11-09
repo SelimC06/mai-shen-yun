@@ -17,31 +17,30 @@ import {
   type ItemSale,
   type IngredientUsage,
   type Shipment,
-  MONTH_OPTIONS,
   buildKpis,
 } from "./lib/dashboardData";
+
+const menuGroups = menuGroupsJson as MenuGroup[];
+const itemSales = itemSalesJson as ItemSale[];
+const ingredientUsage = ingredientUsageJson as IngredientUsage[];
+const shipments = shipmentsJson as Shipment[];
 
 function App() {
   const [selectedMonth, setSelectedMonth] = useState("2024-10");
 
-  const menuGroups = menuGroupsJson as MenuGroup[];
-  const itemSales = itemSalesJson as ItemSale[];
-  const ingredientUsage = ingredientUsageJson as IngredientUsage[];
-  const shipments = shipmentsJson as Shipment[];
-
   const groupsForMonth = useMemo(
     () => menuGroups.filter((g) => g.month === selectedMonth),
-    [menuGroups, selectedMonth]
+    [selectedMonth]
   );
 
   const itemsForMonth = useMemo(
     () => itemSales.filter((i) => i.month === selectedMonth),
-    [itemSales, selectedMonth]
+    [selectedMonth]
   );
 
   const usageForMonth = useMemo(
     () => ingredientUsage.filter((u) => u.month === selectedMonth),
-    [ingredientUsage, selectedMonth]
+    [selectedMonth]
   );
 
   const kpis = useMemo(
@@ -62,34 +61,22 @@ function App() {
             <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4'>
               {kpis.map((kpi) => (
                 <KPIcards
-                  key={kpi.title}
-                  title={kpi.title}
-                  value={kpi.value}
-                  change={kpi.change}
-                  color=""
-                />
+                key={kpi.title}
+                title={kpi.title}
+                value={kpi.value}
+                change={kpi.change}
+              />
               ))}
             </div>
 
-            <CategoryBarChart
-              data={groupsForMonth.map((g) => ({
-                category: g.group,
-                count: g.count,
-              }))}
-            />
+            <CategoryBarChart data={groupsForMonth}/>
 
-            <IngredientUsageChart
-              data={usageForMonth
-                .slice()
-                .sort((a, b) => b.used_qty - a.used_qty)
-                .slice(0, 15)
-                .map((u) => ({
-                  ingredient: u.ingredient,
-                  usage: u.used_qty,
-                }))}
-            />
+            <IngredientUsageChart data={usageForMonth}/>
 
-            <ShipmentVsUsageChart usage={usageForMonth} shipments={shipments}/>
+            <ShipmentVsUsageChart
+              usage={usageForMonth}
+              shipments={shipments}
+            />
           </main>
         </div>
       </div>

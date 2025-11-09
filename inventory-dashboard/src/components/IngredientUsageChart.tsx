@@ -8,22 +8,21 @@ import {
     ResponsiveContainer,
     LabelList,
 } from "recharts";
-
-type UsagePoint = {
-  ingredient: string;
-  usage: number;
-};
+import { type IngredientUsage } from "../lib/dashboardData";
 
 type Props = {
-  data: UsagePoint[];
-};
-
+  data: IngredientUsage[];
+}
 
 const IngredientUsageChart: React.FC<Props> = ({ data }) => {
-    const sorted = data
-    .slice()
-    .sort((a, b) => b.usage - a.usage)
-    .slice(0, 15);
+    const rows = data
+        .slice()
+        .sort((a, b) => b.used_qty - a.used_qty)
+        .slice(0, 15)
+        .map((u) => ({
+        ingredient: u.ingredient,
+        usage: u.used_qty,
+    }));
 
     return (
         <div className="mt-4 bg-white rounded-2xl border border-slate-100 shadow-sm p-4">
@@ -39,26 +38,18 @@ const IngredientUsageChart: React.FC<Props> = ({ data }) => {
             <div className="h-72">
                 <ResponsiveContainer width="100%" height="100%">
                     <BarChart
-                        data={sorted}
+                        data={rows}
                         layout="vertical"
-                        margin={{ top:4, right:50, left:0, bottom: 4}}
+                        margin={{ top:4, right:40, left:-40, bottom: 4}}
                     >
-                        <XAxis
-                            type="number"
-                            tickLine={false}
-                            axisLine={false}
-                            fontSize={10}
-                            tickFormatter={(v) =>
-                                v >= 1000 ? `${(v / 1000).toFixed(0)}k` : `${v}`
-                            }
-                        />
+                        <XAxis type="number" hide />
                         <YAxis
                             type="category"
                             dataKey="ingredient"
-                            tickLine={false}
                             axisLine={false}
-                            width={120}
-                            fontSize={12}
+                            width={150}
+                            tick={{ fontSize: 11, fill: "#64748b" }}
+                            interval={0}
                         />
                         <Tooltip
                             cursor={{ fill: "rgba(79,70,229,0.04)"}}

@@ -1,9 +1,87 @@
 [
   {
     "month": "2024-05",
-    "group": "Lunch Menu",
+    "group": "Fried Chicken",
+    "count": 787,
+    "revenue": 7935.26
+  },
+  {
+    "month": "2024-05",
+    "group": "Combo Items",
+    "count": 0,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-05",
+    "group": "Drink",
+    "count": 3169,
+    "revenue": 2922.54
+  },
+  {
+    "month": "2024-05",
+    "group": "Additonal",
+    "count": 175,
+    "revenue": 358.48
+  },
+  {
+    "month": "2024-05",
+    "group": "Rice Noodle",
+    "count": 524,
+    "revenue": 7698.91
+  },
+  {
+    "month": "2024-05",
+    "group": "Wonton",
+    "count": 50,
+    "revenue": 546.94
+  },
+  {
+    "month": "2024-05",
+    "group": "Milk Tea",
+    "count": 244,
+    "revenue": 1108.72
+  },
+  {
+    "month": "2024-05",
+    "group": "Combo Items Donot Delete",
+    "count": 0,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-05",
+    "group": "Appetizer",
+    "count": 1146,
+    "revenue": 6217.05
+  },
+  {
+    "month": "2024-05",
+    "group": "Ramen",
+    "count": 816,
+    "revenue": 12118.38
+  },
+  {
+    "month": "2024-05",
+    "group": "Tossed Rice Noodle",
+    "count": 398,
+    "revenue": 6000.15
+  },
+  {
+    "month": "2024-05",
+    "group": "Lunch Special",
     "count": 269,
     "revenue": 3783.26
+  },
+  {
+    "month": "2024-05",
+    "group": "Tossed Ramen",
+    "count": 941,
+    "revenue": 13539.42
+  },
+  {
+    "month": "2024-05",
+    "group": "Fried Rice",
+    "count": 214,
+    "revenue": 2850.3
   },
   {
     "month": "2024-05",
@@ -12,22 +90,88 @@
     "revenue": 4.52
   },
   {
-    "month": "2024-05",
-    "group": "All Day Menu",
-    "count": 8464,
-    "revenue": 61296.15
+    "month": "2024-06",
+    "group": "Tossed Ramen",
+    "count": 510,
+    "revenue": 7287.69
   },
   {
     "month": "2024-06",
-    "group": "Lunch Menu",
+    "group": "Tossed Rice Noodle",
+    "count": 243,
+    "revenue": 3652.73
+  },
+  {
+    "month": "2024-06",
+    "group": "Ramen",
+    "count": 479,
+    "revenue": 7108.15
+  },
+  {
+    "month": "2024-06",
+    "group": "Appetizer",
+    "count": 836,
+    "revenue": 4487.7
+  },
+  {
+    "month": "2024-06",
+    "group": "Additonal",
+    "count": 127,
+    "revenue": 255.81
+  },
+  {
+    "month": "2024-06",
+    "group": "Fried Rice",
+    "count": 146,
+    "revenue": 1967.46
+  },
+  {
+    "month": "2024-06",
+    "group": "Fried Chicken",
+    "count": 551,
+    "revenue": 5725.04
+  },
+  {
+    "month": "2024-06",
+    "group": "Lunch Special",
     "count": 222,
     "revenue": 3089.08
   },
   {
     "month": "2024-06",
-    "group": "All Day Menu",
-    "count": 5415,
-    "revenue": 39433.25
+    "group": "Prep item",
+    "count": 0,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-06",
+    "group": "Wonton",
+    "count": 103,
+    "revenue": 1187.4
+  },
+  {
+    "month": "2024-06",
+    "group": "Milk Tea",
+    "count": 189,
+    "revenue": 836.14
+  },
+  {
+    "month": "2024-06",
+    "group": "Special Offer",
+    "count": 37,
+    "revenue": 472.38
+  },
+  {
+    "month": "2024-06",
+    "group": "Combo Items",
+    "count": 0,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-06",
+    "group": "Drink",
+    "count": 1896,
+    "revenue": 2086.79
   },
   {
     "month": "2024-06",
@@ -36,16 +180,70 @@
     "revenue": 5.0
   },
   {
-    "month": "2024-07",
-    "group": "All Day Menu",
-    "count": 5877,
-    "revenue": 43088.72
+    "month": "2024-06",
+    "group": "Rice Noodle",
+    "count": 298,
+    "revenue": 4365.96
   },
   {
     "month": "2024-07",
-    "group": "Lunch Menu",
+    "group": "Lunch Special",
     "count": 213,
     "revenue": 2994.75
+  },
+  {
+    "month": "2024-07",
+    "group": "Milk Tea",
+    "count": 256,
+    "revenue": 1120.75
+  },
+  {
+    "month": "2024-07",
+    "group": "Prep item",
+    "count": 42,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-07",
+    "group": "Fried Rice",
+    "count": 130,
+    "revenue": 1748.27
+  },
+  {
+    "month": "2024-07",
+    "group": "Appetizer",
+    "count": 901,
+    "revenue": 5012.23
+  },
+  {
+    "month": "2024-07",
+    "group": "Fried Chicken",
+    "count": 452,
+    "revenue": 4676.16
+  },
+  {
+    "month": "2024-07",
+    "group": "Additonal",
+    "count": 91,
+    "revenue": 204.2
+  },
+  {
+    "month": "2024-07",
+    "group": "Ramen",
+    "count": 618,
+    "revenue": 9153.54
+  },
+  {
+    "month": "2024-07",
+    "group": "Tossed Ramen",
+    "count": 581,
+    "revenue": 8147.01
+  },
+  {
+    "month": "2024-07",
+    "group": "Tossed Rice Noodle",
+    "count": 252,
+    "revenue": 3778.39
   },
   {
     "month": "2024-07",
@@ -55,21 +253,117 @@
   },
   {
     "month": "2024-07",
+    "group": "Rice Noodle",
+    "count": 315,
+    "revenue": 4621.24
+  },
+  {
+    "month": "2024-07",
+    "group": "Combo Items",
+    "count": 0,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-07",
+    "group": "Drink",
+    "count": 2039,
+    "revenue": 2445.01
+  },
+  {
+    "month": "2024-07",
     "group": "Open Food",
     "count": 3,
     "revenue": 5.75
   },
   {
-    "month": "2024-08",
-    "group": "Signature Drinks",
-    "count": 566,
-    "revenue": 2408.42
+    "month": "2024-07",
+    "group": "Special Offer",
+    "count": 118,
+    "revenue": 1271.28
+  },
+  {
+    "month": "2024-07",
+    "group": "Wonton",
+    "count": 82,
+    "revenue": 910.64
   },
   {
     "month": "2024-08",
-    "group": "Lunch Menu",
+    "group": "Wonton",
+    "count": 211,
+    "revenue": 2355.56
+  },
+  {
+    "month": "2024-08",
+    "group": "Lunch Special",
     "count": 308,
     "revenue": 4160.47
+  },
+  {
+    "month": "2024-08",
+    "group": "Prep item",
+    "count": 38,
+    "revenue": 1.0
+  },
+  {
+    "month": "2024-08",
+    "group": "Additonal",
+    "count": 156,
+    "revenue": 395.71
+  },
+  {
+    "month": "2024-08",
+    "group": "Fried Rice",
+    "count": 422,
+    "revenue": 5385.14
+  },
+  {
+    "month": "2024-08",
+    "group": "Fruit Tea",
+    "count": 110,
+    "revenue": 452.94
+  },
+  {
+    "month": "2024-08",
+    "group": "Fried Chicken",
+    "count": 746,
+    "revenue": 8590.0
+  },
+  {
+    "month": "2024-08",
+    "group": "Appetizer",
+    "count": 1129,
+    "revenue": 6407.17
+  },
+  {
+    "month": "2024-08",
+    "group": "Ramen",
+    "count": 844,
+    "revenue": 12574.53
+  },
+  {
+    "month": "2024-08",
+    "group": "Tossed Ramen",
+    "count": 480,
+    "revenue": 6908.36
+  },
+  {
+    "month": "2024-08",
+    "group": "Tossed Rice Noodle",
+    "count": 420,
+    "revenue": 6232.66
+  },
+  {
+    "month": "2024-08",
+    "group": "Mai Dessert",
+    "count": 19,
+    "revenue": 111.65
+  },
+  {
+    "month": "2024-08",
+    "group": "Rice Noodle",
+    "count": 404,
+    "revenue": 6053.93
   },
   {
     "month": "2024-08",
@@ -79,9 +373,21 @@
   },
   {
     "month": "2024-08",
-    "group": "All Day Menu",
-    "count": 7969,
-    "revenue": 58601.83
+    "group": "Jas-Lemonade",
+    "count": 84,
+    "revenue": 346.85
+  },
+  {
+    "month": "2024-08",
+    "group": "Combo Items",
+    "count": 0,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-08",
+    "group": "Drink",
+    "count": 2971,
+    "revenue": 1930.03
   },
   {
     "month": "2024-08",
@@ -90,21 +396,123 @@
     "revenue": 1.5
   },
   {
+    "month": "2024-08",
+    "group": "Special Offer",
+    "count": 127,
+    "revenue": 1648.21
+  },
+  {
+    "month": "2024-08",
+    "group": "Milk Tea",
+    "count": 374,
+    "revenue": 1616.49
+  },
+  {
     "month": "2024-09",
-    "group": "Lunch Menu",
+    "group": "Rice Noodle",
+    "count": 454,
+    "revenue": 6811.07
+  },
+  {
+    "month": "2024-09",
+    "group": "Tossed Rice Noodle",
+    "count": 442,
+    "revenue": 6661.42
+  },
+  {
+    "month": "2024-09",
+    "group": "Mai Dessert",
+    "count": 17,
+    "revenue": 102.07
+  },
+  {
+    "month": "2024-09",
+    "group": "Ramen",
+    "count": 977,
+    "revenue": 14615.3
+  },
+  {
+    "month": "2024-09",
+    "group": "Appetizer",
+    "count": 1273,
+    "revenue": 7227.69
+  },
+  {
+    "month": "2024-09",
+    "group": "Jas-Lemonade",
+    "count": 90,
+    "revenue": 385.39
+  },
+  {
+    "month": "2024-09",
+    "group": "Fried Chicken",
+    "count": 927,
+    "revenue": 10955.24
+  },
+  {
+    "month": "2024-09",
+    "group": "Fried Rice",
+    "count": 451,
+    "revenue": 6205.81
+  },
+  {
+    "month": "2024-09",
+    "group": "Tossed Ramen",
+    "count": 483,
+    "revenue": 6981.17
+  },
+  {
+    "month": "2024-09",
+    "group": "Lunch Special",
     "count": 398,
     "revenue": 5606.57
   },
   {
     "month": "2024-09",
-    "group": "All Day Menu",
-    "count": 8629,
-    "revenue": 66146.96
+    "group": "Wonton",
+    "count": 233,
+    "revenue": 2592.89
   },
   {
     "month": "2024-09",
-    "group": "Signature Drinks",
-    "count": 779,
-    "revenue": 3483.07
+    "group": "Drink",
+    "count": 3073,
+    "revenue": 1737.27
+  },
+  {
+    "month": "2024-09",
+    "group": "Additonal",
+    "count": 167,
+    "revenue": 599.02
+  },
+  {
+    "month": "2024-09",
+    "group": "Combo Items",
+    "count": 0,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-09",
+    "group": "Special Offer",
+    "count": 131,
+    "revenue": 1658.01
+  },
+  {
+    "month": "2024-09",
+    "group": "Milk Tea",
+    "count": 530,
+    "revenue": 2417.89
+  },
+  {
+    "month": "2024-09",
+    "group": "Prep item",
+    "count": 1,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-09",
+    "group": "Fruit Tea",
+    "count": 159,
+    "revenue": 679.79
   }
 ]

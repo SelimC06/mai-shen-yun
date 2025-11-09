@@ -1,6 +1,16 @@
+// src/lib/dashboardData.ts
+
 export type MenuGroup = {
   month: string;
   group: string;
+  count: number;
+  revenue: number;
+};
+
+export type ItemCategory = {
+  month: string;
+  item: string;
+  category: string;
   count: number;
   revenue: number;
 };
@@ -23,30 +33,35 @@ export type Shipment = {
   ingredient: string;
   quantity_per_shipment: number;
   unit: string | null;
-  shipments_per_month: number | null;
+  number_of_shipments: number | null;
   frequency: string | null;
+  shipments_per_month: number | null;
+  monthly_quantity: number | null;
+  monthly_quantity_grams: number | null;
 };
 
-export type KPI = {
-  title: string;
-  value: string;
-  change: string;
-};
+export function normalizeIngredientName(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/\(.*?\)/g, "")     // drop stuff in parentheses: (g), (count)
+    .replace(/[^a-z]+/g, "")     // keep only letters
+    .trim();
+}
 
 export const MONTH_OPTIONS = [
-  { label: "May 2024", value: "2024-05" },
-  { label: "June 2024", value: "2024-06" },
-  { label: "July 2024", value: "2024-07" },
-  { label: "August 2024", value: "2024-08" },
-  { label: "September 2024", value: "2024-09" },
-  { label: "October 2024", value: "2024-10" },
+  { label: "May", value: "2024-05" },
+  { label: "June", value: "2024-06" },
+  { label: "July", value: "2024-07" },
+  { label: "August", value: "2024-08" },
+  { label: "September", value: "2024-09" },
+  { label: "October", value: "2024-10" },
 ];
 
 export function buildKpis(
   groups: MenuGroup[],
   items: ItemSale[],
   usage: IngredientUsage[]
-): KPI[] {
+) {
   const totalOrders = items.reduce((s, r) => s + r.count, 0);
   const totalRevenue = groups.reduce((s, r) => s + r.revenue, 0);
   const uniqueIngredients = new Set(usage.map((u) => u.ingredient)).size;
@@ -55,7 +70,7 @@ export function buildKpis(
     {
       title: "Total Orders",
       value: totalOrders.toLocaleString(),
-      change: "+0.0%",
+      change: "", // plug in MoM later
     },
     {
       title: "Total Revenue",
@@ -64,17 +79,12 @@ export function buildKpis(
         totalRevenue.toLocaleString(undefined, {
           maximumFractionDigits: 0,
         }),
-      change: "+0.0%",
+      change: "",
     },
     {
       title: "Active Ingredients Used",
       value: uniqueIngredients.toString(),
-      change: "+0.0%",
-    },
-    {
-      title: "Canceled / At-Risk Orders",
-      value: "0",
-      change: "N/A",
+      change: "",
     },
   ];
 }
@@ -83,27 +93,54 @@ export function buildShipmentUsageMerge(
   usage: IngredientUsage[],
   shipments: Shipment[]
 ) {
-  const shipMap = new Map<string, Shipment>();
+  const shipmentIndex = new Map<
+    string,
+    { shipment: number; rawName: string }
+  >();
+
   shipments.forEach((s) => {
-    shipMap.set(s.ingredient.toLowerCase(), s);
+    if (!s.ingredient) return;
+    const key = normalizeIngredientName(s.ingredient);
+    if (!key) return;
+
+    const shipmentQty =
+      s.monthly_quantity_grams ??
+      s.monthly_quantity ??
+      (s.shipments_per_month && s.quantity_per_shipment
+        ? s.shipments_per_month * s.quantity_per_shipment
+        : 0);
+
+    if (!shipmentQty || shipmentQty <= 0) return;
+
+    const existing = shipmentIndex.get(key);
+    if (!existing || shipmentQty > existing.shipment) {
+      shipmentIndex.set(key, {
+        shipment: shipmentQty,
+        rawName: s.ingredient,
+      });
+    }
   });
 
   return usage
     .map((u) => {
-      const s = shipMap.get(u.ingredient.toLowerCase());
-      const monthlyPlanned =
-        s && s.shipments_per_month && s.quantity_per_shipment
-          ? s.shipments_per_month * s.quantity_per_shipment
-          : 0;
+      const key = normalizeIngredientName(u.ingredient);
+      if (!key) return null;
+
+      const match = shipmentIndex.get(key);
+
+      const shipment = match?.shipment ?? 0;
       const utilization =
-        monthlyPlanned > 0 ? u.used_qty / monthlyPlanned : null;
+        shipment > 0 ? u.used_qty / shipment : null;
 
       return {
         ingredient: u.ingredient,
-        estimated: Number(u.used_qty.toFixed(2)),
-        shipment: monthlyPlanned,
+        usage: u.used_qty,
+        shipment,
         utilization,
       };
     })
-    .filter((row) => row.estimated > 0 || row.shipment > 0);
+    .filter(
+      (row): row is NonNullable<typeof row> =>
+        !!row && (row.usage > 0 || row.shipment > 0)
+    );
 }

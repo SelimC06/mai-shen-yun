@@ -1,12 +1,12 @@
 import React from "react";
 import { MONTH_OPTIONS } from "../lib/dashboardData";
 
-type TopBarProps = {
+type Props = {
   month: string;
   onMonthChange: (value: string) => void;
 };
 
-const TopBar: React.FC<TopBarProps> = ({ month, onMonthChange }) => {
+const TopBar: React.FC<Props> = ({ month, onMonthChange }) => {
   return (
     <header className="w-full h-16 bg-white flex items-center justify-between px-6 border-b border-slate-200 shadow-sm">
       {/* Left - Title */}
@@ -20,7 +20,7 @@ const TopBar: React.FC<TopBarProps> = ({ month, onMonthChange }) => {
                 appearance-none
                 h-8
                 text-xs pl-4 pr-8 rounded-full
-                bg-slate-50 border border-slate-200
+                bg-slate-50 border border-black-200
                 text-slate-700
                 focus:outline-none focus:ring-2 focus:ring-blue-400 focus:border-blue-400
                 cursor-pointer

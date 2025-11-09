@@ -8,54 +8,56 @@ import {
   ResponsiveContainer,
   LabelList,
 } from "recharts";
-
-type CategoryPoint = {
-  category: string;
-  count: number;
-};
+import { type MenuGroup } from "../lib/dashboardData";
 
 type Props = {
-  data: CategoryPoint[];
+  data: MenuGroup[]; // already filtered by month
 };
 
 const CategoryBarChart: React.FC<Props> = ({ data }) => {
-    const sorted = data
+    const rows = data
+    .filter(
+      (d) =>
+        d.group &&
+        d.group.trim() !== "" &&
+        d.group.toLowerCase() !== "category" &&
+        d.count > 0
+    )
     .slice()
     .sort((a, b) => b.count - a.count)
-    .slice(0, 10);
+    .slice(0, 12) // top N
+    .map((d) => ({
+      category: d.group.trim(),
+      count: d.count,
+    }));
 
+    console.table(rows);
     return(
         <div className="mt-6 bg-white rounded-2xl border border-slate-100 shadow-sm p-4">
             <div className="flex items-baseline justify-between mb-2">
                 <h2 className="text-xl font-semibold text-slate-800">
                     Orders by Category
                 </h2>
-                <span className="text-xs     text-slate-500">
-                    Top selling menu groups (sample data)
+                <span className="text-xs text-slate-500">
+                    Top selling menu groups
                 </span>
             </div>
 
             <div className="h-64">
                 <ResponsiveContainer width="100%" height="100%">
                     <BarChart
-                        data={sorted}
+                        data={rows}
                         layout="vertical"
-                        margin={{ top:4, right: 50, left: 0, bottom: 4}}
+                        margin={{ top:4, right: 40, left: -40, bottom: 4}}
                     >
-                        <XAxis
-                            type="number"
-                            tickLine={false}
-                            axisLine={false}
-                            fontSize={10}
-                        />
+                        <XAxis type="number" hide/>
                         <YAxis
-                            dataKey="category"
                             type="category"
-                            tickLine={false}
+                            dataKey="category"
                             axisLine={false}
-                            width={100}
-                            fontSize={12}
-                            fill="#000000ff"
+                            width={150}
+                            tick={{ fontSize: 11, fill: "#64748b" }}
+                            interval={0}
                         />
                         <Tooltip
                             cursor={{ fill: "rgba(129,140,248,0.06)" }}
