@@ -9,17 +9,21 @@ import {
   LabelList,
 } from "recharts";
 
-const data = [
-  { category: "Drink", count: 2200 },
-  { category: "Lunch Special", count: 380 },
-  { category: "Fried Chicken", count: 930 },
-  { category: "Ramen", count: 870 },
-  { category: "Dessert", count: 540 },
-  { category: "Appetizer", count: 410 },
-  { category: "Fruit Tea", count: 360 },
-];
+type CategoryPoint = {
+  category: string;
+  count: number;
+};
 
-const CategoryBarChart: React.FC = () => {
+type Props = {
+  data: CategoryPoint[];
+};
+
+const CategoryBarChart: React.FC<Props> = ({ data }) => {
+    const sorted = data
+    .slice()
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 10);
+
     return(
         <div className="mt-6 bg-white rounded-2xl border border-slate-100 shadow-sm p-4">
             <div className="flex items-baseline justify-between mb-2">
@@ -34,7 +38,7 @@ const CategoryBarChart: React.FC = () => {
             <div className="h-64">
                 <ResponsiveContainer width="100%" height="100%">
                     <BarChart
-                        data={data}
+                        data={sorted}
                         layout="vertical"
                         margin={{ top:4, right: 50, left: 0, bottom: 4}}
                     >

@@ -11,21 +11,22 @@ import {
     LabelList,
 } from "recharts";
 
-const data = [
-  { ingredient: "Chicken", estimated: 235.41, shipment: 40 },
-  { ingredient: "Ramen", estimated: 313, shipment: 50 },
-  { ingredient: "Rice Noodles", estimated: 207.01, shipment: 50 },
-  { ingredient: "Flour", estimated: 78.87, shipment: 50 },
-  { ingredient: "Tapioca Starch", estimated: 62.1, shipment: 25 },
-  { ingredient: "Rice", estimated: 310.52, shipment: 50 },
-  { ingredient: "Green Onion", estimated: 33.52, shipment: 20 },
-  { ingredient: "Cilantro", estimated: 27.6, shipment: 5 },
-  { ingredient: "Egg", estimated: 681.89, shipment: 120 },
-  { ingredient: "Peas + Carrot", estimated: 0, shipment: 40 },
-  { ingredient: "Boychoy", estimated: 0, shipment: 25 },
-];
+import {
+    type IngredientUsage,
+    type Shipment,
+    buildShipmentUsageMerge,
+} from "../lib/dashboardData";
 
-const ShipmentVsUsageChart: React.FC = () => {
+type Props = {
+  usage: IngredientUsage[];
+  shipments: Shipment[];
+};
+
+const ShipmentVsUsageChart: React.FC<Props> = ({ usage, shipments }) => {
+    const merged = buildShipmentUsageMerge(usage, shipments)
+    .sort((a, b) => (b.utilization ?? 0) - (a.utilization ?? 0))
+    .slice(0, 12);
+
     return(
         <div className="mt-4 bg-white rounded-2xl border border-slate-100 shadow-sm p-4">
             <div className="flex items-baseline justify-between mb-2">
@@ -40,7 +41,7 @@ const ShipmentVsUsageChart: React.FC = () => {
             <div className="h-80">
                 <ResponsiveContainer width="100%" height="100%">
                     <BarChart
-                        data={data}
+                        data={merged}
                         margin={{ top: 10, right: 24, left: 0, bottom: 24 }}
                     >
                         <CartesianGrid stroke="#eef2ff" vertical={false} />

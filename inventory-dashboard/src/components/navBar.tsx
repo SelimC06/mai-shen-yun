@@ -1,4 +1,5 @@
 import React from "react";
+import { MONTH_OPTIONS } from "../lib/dashboardData";
 
 type TopBarProps = {
   month: string;
@@ -25,18 +26,11 @@ const TopBar: React.FC<TopBarProps> = ({ month, onMonthChange }) => {
                 cursor-pointer
             "
         >
-            <option>January</option>
-            <option>February</option>
-            <option>March</option>
-            <option>April</option>
-            <option>May</option>
-            <option>June</option>
-            <option>July</option>
-            <option>August</option>
-            <option>September</option>
-            <option>October</option>
-            <option>November</option>
-            <option>December</option>
+            {MONTH_OPTIONS.map((m) => (
+                <option key={m.value} value={m.value}>
+                {m.label}
+                </option>
+            ))}
         </select>
         <span className="pointer-events-none absolute right-3 top-1/2 -translate-y-1/2 text-slate-500 text-base">
             ▾
