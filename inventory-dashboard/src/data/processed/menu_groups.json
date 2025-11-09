@@ -1,0 +1,110 @@
+[
+  {
+    "month": "2024-05",
+    "group": "Lunch Menu",
+    "count": 269,
+    "revenue": 3783.26
+  },
+  {
+    "month": "2024-05",
+    "group": "Open Food",
+    "count": 2,
+    "revenue": 4.52
+  },
+  {
+    "month": "2024-05",
+    "group": "All Day Menu",
+    "count": 8464,
+    "revenue": 61296.15
+  },
+  {
+    "month": "2024-06",
+    "group": "Lunch Menu",
+    "count": 222,
+    "revenue": 3089.08
+  },
+  {
+    "month": "2024-06",
+    "group": "All Day Menu",
+    "count": 5415,
+    "revenue": 39433.25
+  },
+  {
+    "month": "2024-06",
+    "group": "Open Food",
+    "count": 1,
+    "revenue": 5.0
+  },
+  {
+    "month": "2024-07",
+    "group": "All Day Menu",
+    "count": 5877,
+    "revenue": 43088.72
+  },
+  {
+    "month": "2024-07",
+    "group": "Lunch Menu",
+    "count": 213,
+    "revenue": 2994.75
+  },
+  {
+    "month": "2024-07",
+    "group": "Gift Card",
+    "count": 1,
+    "revenue": 5.99
+  },
+  {
+    "month": "2024-07",
+    "group": "Open Food",
+    "count": 3,
+    "revenue": 5.75
+  },
+  {
+    "month": "2024-08",
+    "group": "Signature Drinks",
+    "count": 566,
+    "revenue": 2408.42
+  },
+  {
+    "month": "2024-08",
+    "group": "Lunch Menu",
+    "count": 308,
+    "revenue": 4160.47
+  },
+  {
+    "month": "2024-08",
+    "group": "Gift Card",
+    "count": 5,
+    "revenue": 45.0
+  },
+  {
+    "month": "2024-08",
+    "group": "All Day Menu",
+    "count": 7969,
+    "revenue": 58601.83
+  },
+  {
+    "month": "2024-08",
+    "group": "Open Food",
+    "count": 1,
+    "revenue": 1.5
+  },
+  {
+    "month": "2024-09",
+    "group": "Lunch Menu",
+    "count": 398,
+    "revenue": 5606.57
+  },
+  {
+    "month": "2024-09",
+    "group": "All Day Menu",
+    "count": 8629,
+    "revenue": 66146.96
+  },
+  {
+    "month": "2024-09",
+    "group": "Signature Drinks",
+    "count": 779,
+    "revenue": 3483.07
+  }
+]

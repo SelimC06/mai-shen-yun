@@ -1,0 +1,3356 @@
+[
+  {
+    "month": "2024-05",
+    "item": "Beef Tossed Ramen",
+    "count": 468,
+    "revenue": 6921.26
+  },
+  {
+    "month": "2024-05",
+    "item": "Beef Ramen",
+    "count": 339,
+    "revenue": 5045.65
+  },
+  {
+    "month": "2024-05",
+    "item": "Lunch Special",
+    "count": 269,
+    "revenue": 3783.26
+  },
+  {
+    "month": "2024-05",
+    "item": "Pork Tossed Ramen",
+    "count": 260,
+    "revenue": 3526.47
+  },
+  {
+    "month": "2024-05",
+    "item": "Chicken Rice Noodle Soup",
+    "count": 233,
+    "revenue": 3303.84
+  },
+  {
+    "month": "2024-05",
+    "item": "Chicken Ramen",
+    "count": 222,
+    "revenue": 3313.0
+  },
+  {
+    "month": "2024-05",
+    "item": "Mai Special Fried Chicken(8)",
+    "count": 309,
+    "revenue": 3089.87
+  },
+  {
+    "month": "2024-05",
+    "item": "Beef Tossed Rice Noodle",
+    "count": 195,
+    "revenue": 3102.44
+  },
+  {
+    "month": "2024-05",
+    "item": "Chicken Tossed Ramen",
+    "count": 200,
+    "revenue": 2906.3
+  },
+  {
+    "month": "2024-05",
+    "item": "Beef Rice Noodle Soup",
+    "count": 147,
+    "revenue": 2316.04
+  },
+  {
+    "month": "2024-05",
+    "item": "Pork Ramen",
+    "count": 131,
+    "revenue": 1845.21
+  },
+  {
+    "month": "2024-05",
+    "item": "Chicken Tossed Rice Noodles",
+    "count": 118,
+    "revenue": 1726.89
+  },
+  {
+    "month": "2024-05",
+    "item": "House Ramen",
+    "count": 91,
+    "revenue": 1474.52
+  },
+  {
+    "month": "2024-05",
+    "item": "Mai's Golden Flake Fried Chicken(8)",
+    "count": 138,
+    "revenue": 1378.05
+  },
+  {
+    "month": "2024-05",
+    "item": "Fried Pork Dumplings(10)",
+    "count": 119,
+    "revenue": 1063.71
+  },
+  {
+    "month": "2024-05",
+    "item": "Pork Tossed Rice Noodle",
+    "count": 72,
+    "revenue": 992.7
+  },
+  {
+    "month": "2024-05",
+    "item": "Golden Coconut Crunch Chicken(8)",
+    "count": 96,
+    "revenue": 982.35
+  },
+  {
+    "month": "2024-05",
+    "item": "Pork Rice Noodle Soup",
+    "count": 72,
+    "revenue": 986.46
+  },
+  {
+    "month": "2024-05",
+    "item": "Chicken Fried Rice",
+    "count": 80,
+    "revenue": 1000.1
+  },
+  {
+    "month": "2024-05",
+    "item": "Mai OG Fried Chicken Wings(4)",
+    "count": 193,
+    "revenue": 960.71
+  },
+  {
+    "month": "2024-05",
+    "item": "Brown Sugar Milk Tea w. Boba (24oz)",
+    "count": 196,
+    "revenue": 888.71
+  },
+  {
+    "month": "2024-05",
+    "item": "Steam Pork Dumplings(10)",
+    "count": 94,
+    "revenue": 819.22
+  },
+  {
+    "month": "2024-05",
+    "item": "Crispy Spring Roll(3)",
+    "count": 185,
+    "revenue": 726.44
+  },
+  {
+    "month": "2024-05",
+    "item": "House Rice Noodle Soup",
+    "count": 42,
+    "revenue": 684.02
+  },
+  {
+    "month": "2024-05",
+    "item": "House Fried Rice",
+    "count": 46,
+    "revenue": 692.23
+  },
+  {
+    "month": "2024-05",
+    "item": "Tempura Shrimp(3)",
+    "count": 138,
+    "revenue": 674.01
+  },
+  {
+    "month": "2024-05",
+    "item": "Crispy Pork Egg Roll(3)",
+    "count": 162,
+    "revenue": 651.24
+  },
+  {
+    "month": "2024-05",
+    "item": "Onion Glory Fried Chicken(8)",
+    "count": 59,
+    "revenue": 589.13
+  },
+  {
+    "month": "2024-05",
+    "item": "Strawberry Sunrise Tea",
+    "count": 152,
+    "revenue": 555.16
+  },
+  {
+    "month": "2024-05",
+    "item": "Sichuan Chili Wontons",
+    "count": 50,
+    "revenue": 546.94
+  },
+  {
+    "month": "2024-05",
+    "item": "Vegetable Ramen",
+    "count": 33,
+    "revenue": 440.0
+  },
+  {
+    "month": "2024-05",
+    "item": "Vegetable Rice Noodle Soup",
+    "count": 30,
+    "revenue": 408.55
+  },
+  {
+    "month": "2024-05",
+    "item": "Citrus Honey Fried Chicken  (8)",
+    "count": 43,
+    "revenue": 434.87
+  },
+  {
+    "month": "2024-05",
+    "item": "Beef Fried Rice",
+    "count": 28,
+    "revenue": 377.5
+  },
+  {
+    "month": "2024-05",
+    "item": "Shrimp Fried Rice",
+    "count": 29,
+    "revenue": 389.91
+  },
+  {
+    "month": "2024-05",
+    "item": "Mai Buffalo Chicken Wings(8)",
+    "count": 35,
+    "revenue": 346.69
+  },
+  {
+    "month": "2024-05",
+    "item": "Golden kiwi",
+    "count": 87,
+    "revenue": 316.02
+  },
+  {
+    "month": "2024-05",
+    "item": "Dr. Pepper",
+    "count": 118,
+    "revenue": 344.71
+  },
+  {
+    "month": "2024-05",
+    "item": "Cream Cheese Wonton\uff086\uff09",
+    "count": 60,
+    "revenue": 352.83
+  },
+  {
+    "month": "2024-05",
+    "item": "Specialty Drink",
+    "count": 115,
+    "revenue": 338.5
+  },
+  {
+    "month": "2024-05",
+    "item": "Diet Pepsi",
+    "count": 97,
+    "revenue": 284.98
+  },
+  {
+    "month": "2024-05",
+    "item": "Spicy Cucumber Salad",
+    "count": 46,
+    "revenue": 249.14
+  },
+  {
+    "month": "2024-05",
+    "item": "Pepsi",
+    "count": 83,
+    "revenue": 238.52
+  },
+  {
+    "month": "2024-05",
+    "item": "Cream Cheese Rangoon(6)",
+    "count": 47,
+    "revenue": 263.68
+  },
+  {
+    "month": "2024-05",
+    "item": "Pork Fried Rice",
+    "count": 17,
+    "revenue": 213.55
+  },
+  {
+    "month": "2024-05",
+    "item": "Sweet Ice Tea",
+    "count": 79,
+    "revenue": 228.04
+  },
+  {
+    "month": "2024-05",
+    "item": "Unsweet Ice Tea",
+    "count": 69,
+    "revenue": 197.17
+  },
+  {
+    "month": "2024-05",
+    "item": "Crispy French Fries",
+    "count": 47,
+    "revenue": 184.56
+  },
+  {
+    "month": "2024-05",
+    "item": "BF chicken cutlet combo",
+    "count": 20,
+    "revenue": 242.53
+  },
+  {
+    "month": "2024-05",
+    "item": "Wasabi Spiced Fried Chicken (8)",
+    "count": 16,
+    "revenue": 158.84
+  },
+  {
+    "month": "2024-05",
+    "item": "Tangy Honey Mustard Fried Chicken (8)",
+    "count": 19,
+    "revenue": 186.57
+  },
+  {
+    "month": "2024-05",
+    "item": "Vegetable Fried Rice",
+    "count": 14,
+    "revenue": 177.0
+  },
+  {
+    "month": "2024-05",
+    "item": "Milk Tea(20oz)",
+    "count": 31,
+    "revenue": 153.81
+  },
+  {
+    "month": "2024-05",
+    "item": "Vegetable Tossed Ramen",
+    "count": 11,
+    "revenue": 153.95
+  },
+  {
+    "month": "2024-05",
+    "item": "Wasabi Spiced Fried Chicken(8)",
+    "count": 12,
+    "revenue": 138.88
+  },
+  {
+    "month": "2024-05",
+    "item": "Tangy Honey Mustard Fried Chicken(8)",
+    "count": 11,
+    "revenue": 129.49
+  },
+  {
+    "month": "2024-05",
+    "item": "Chili Pepper Fried Chicken\uff088\uff09",
+    "count": 13,
+    "revenue": 129.11
+  },
+  {
+    "month": "2024-05",
+    "item": "Starry - Sprite",
+    "count": 45,
+    "revenue": 132.29
+  },
+  {
+    "month": "2024-05",
+    "item": "Braised Chicken Thigh",
+    "count": 36,
+    "revenue": 106.77
+  },
+  {
+    "month": "2024-05",
+    "item": "Vegetable Tossed Rice Noodle",
+    "count": 9,
+    "revenue": 114.96
+  },
+  {
+    "month": "2024-05",
+    "item": "Brown Sugar Rice Cake",
+    "count": 22,
+    "revenue": 117.14
+  },
+  {
+    "month": "2024-05",
+    "item": "Lemonade",
+    "count": 35,
+    "revenue": 100.73
+  },
+  {
+    "month": "2024-05",
+    "item": "Jumbo Chicken Tender (3)",
+    "count": 19,
+    "revenue": 90.93
+  },
+  {
+    "month": "2024-05",
+    "item": "House Tossed Rice Noodle",
+    "count": 4,
+    "revenue": 63.16
+  },
+  {
+    "month": "2024-05",
+    "item": "Chili Pepper Fried Chicken (8)",
+    "count": 6,
+    "revenue": 62.94
+  },
+  {
+    "month": "2024-05",
+    "item": "Brown Sugar Milk Tea NO BOBA (24oz)",
+    "count": 17,
+    "revenue": 66.2
+  },
+  {
+    "month": "2024-05",
+    "item": "White Rice - DINE IN",
+    "count": 52,
+    "revenue": 52.44
+  },
+  {
+    "month": "2024-05",
+    "item": "Bottled Soda",
+    "count": 21,
+    "revenue": 42.19
+  },
+  {
+    "month": "2024-05",
+    "item": "Hot Tea",
+    "count": 13,
+    "revenue": 38.39
+  },
+  {
+    "month": "2024-05",
+    "item": "Crispy French Fries(LG)",
+    "count": 8,
+    "revenue": 33.92
+  },
+  {
+    "month": "2024-05",
+    "item": "BF chicken cutlet",
+    "count": 10,
+    "revenue": 65.93
+  },
+  {
+    "month": "2024-05",
+    "item": "Plain Fried Rice",
+    "count": 15,
+    "revenue": 45.49
+  },
+  {
+    "month": "2024-05",
+    "item": "Orange Crush",
+    "count": 10,
+    "revenue": 29.74
+  },
+  {
+    "month": "2024-05",
+    "item": "Rice Noodle",
+    "count": 17,
+    "revenue": 25.8
+  },
+  {
+    "month": "2024-05",
+    "item": "White Rice-To Go",
+    "count": 6,
+    "revenue": 21.0
+  },
+  {
+    "month": "2024-05",
+    "item": "Sweet Sesame Ball",
+    "count": 5,
+    "revenue": 25.02
+  },
+  {
+    "month": "2024-05",
+    "item": "White Rice",
+    "count": 5,
+    "revenue": 20.16
+  },
+  {
+    "month": "2024-05",
+    "item": "House Tossed Ramen",
+    "count": 2,
+    "revenue": 31.44
+  },
+  {
+    "month": "2024-05",
+    "item": "Ramune - Original",
+    "count": 4,
+    "revenue": 13.76
+  },
+  {
+    "month": "2024-05",
+    "item": "Chunked Beef",
+    "count": 4,
+    "revenue": 15.96
+  },
+  {
+    "month": "2024-05",
+    "item": "Braised Chicken",
+    "count": 5,
+    "revenue": 16.9
+  },
+  {
+    "month": "2024-05",
+    "item": "soup to go",
+    "count": 7,
+    "revenue": 10.47
+  },
+  {
+    "month": "2024-05",
+    "item": "Ramen",
+    "count": 6,
+    "revenue": 9.0
+  },
+  {
+    "month": "2024-05",
+    "item": "Mai\u2018s Special Sauce",
+    "count": 11,
+    "revenue": 10.72
+  },
+  {
+    "month": "2024-05",
+    "item": "\u5317\u51b0\u6d0b Orange Soda",
+    "count": 2,
+    "revenue": 7.18
+  },
+  {
+    "month": "2024-05",
+    "item": "Pepsi Zero",
+    "count": 2,
+    "revenue": 7.18
+  },
+  {
+    "month": "2024-05",
+    "item": "Sweet Tea",
+    "count": 2,
+    "revenue": 7.18
+  },
+  {
+    "month": "2024-05",
+    "item": "Braised Pork",
+    "count": 3,
+    "revenue": 9.22
+  },
+  {
+    "month": "2024-05",
+    "item": "Shrimp",
+    "count": 2,
+    "revenue": 5.98
+  },
+  {
+    "month": "2024-05",
+    "item": "Bottled Water",
+    "count": 3,
+    "revenue": 5.97
+  },
+  {
+    "month": "2024-05",
+    "item": "Open Food",
+    "count": 2,
+    "revenue": 4.52
+  },
+  {
+    "month": "2024-05",
+    "item": "Braised Egg",
+    "count": 2,
+    "revenue": 4.3
+  },
+  {
+    "month": "2024-05",
+    "item": "Mai\u2018s special Sauce",
+    "count": 4,
+    "revenue": 4.26
+  },
+  {
+    "month": "2024-05",
+    "item": "Ramune - Orange",
+    "count": 1,
+    "revenue": 3.59
+  },
+  {
+    "month": "2024-05",
+    "item": "Starry",
+    "count": 1,
+    "revenue": 3.59
+  },
+  {
+    "month": "2024-05",
+    "item": "Ramune - Melon",
+    "count": 1,
+    "revenue": 2.99
+  },
+  {
+    "month": "2024-05",
+    "item": "Ramune - Strawberry",
+    "count": 2,
+    "revenue": 6.28
+  },
+  {
+    "month": "2024-05",
+    "item": "Water",
+    "count": 2122,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-05",
+    "item": "Sweet Sesame Ball (6) w. red bean",
+    "count": 1,
+    "revenue": 4.5
+  },
+  {
+    "month": "2024-05",
+    "item": "Golden kiwi",
+    "count": 5,
+    "revenue": 18.38
+  },
+  {
+    "month": "2024-06",
+    "item": "Beef Tossed Ramen",
+    "count": 286,
+    "revenue": 4248.69
+  },
+  {
+    "month": "2024-06",
+    "item": "Lunch Special",
+    "count": 222,
+    "revenue": 3089.08
+  },
+  {
+    "month": "2024-06",
+    "item": "Beef Ramen",
+    "count": 195,
+    "revenue": 2907.79
+  },
+  {
+    "month": "2024-06",
+    "item": "Chicken Rice Noodle Soup",
+    "count": 153,
+    "revenue": 2196.39
+  },
+  {
+    "month": "2024-06",
+    "item": "Beef Tossed Rice Noodle",
+    "count": 113,
+    "revenue": 1771.24
+  },
+  {
+    "month": "2024-06",
+    "item": "BF chicken cutlet combo",
+    "count": 142,
+    "revenue": 1722.24
+  },
+  {
+    "month": "2024-06",
+    "item": "Pork Tossed Ramen",
+    "count": 134,
+    "revenue": 1769.95
+  },
+  {
+    "month": "2024-06",
+    "item": "Chicken Ramen",
+    "count": 117,
+    "revenue": 1724.75
+  },
+  {
+    "month": "2024-06",
+    "item": "Beef Rice Noodle Soup",
+    "count": 81,
+    "revenue": 1241.45
+  },
+  {
+    "month": "2024-06",
+    "item": "Mai Special Fried Chicken(8)",
+    "count": 127,
+    "revenue": 1283.91
+  },
+  {
+    "month": "2024-06",
+    "item": "Chicken Tossed Rice Noodles",
+    "count": 78,
+    "revenue": 1176.77
+  },
+  {
+    "month": "2024-06",
+    "item": "Sichuan Chili Wontons",
+    "count": 103,
+    "revenue": 1187.4
+  },
+  {
+    "month": "2024-06",
+    "item": "Chicken Tossed Ramen",
+    "count": 81,
+    "revenue": 1138.02
+  },
+  {
+    "month": "2024-06",
+    "item": "House Ramen",
+    "count": 65,
+    "revenue": 1077.79
+  },
+  {
+    "month": "2024-06",
+    "item": "Pork Ramen",
+    "count": 77,
+    "revenue": 1034.83
+  },
+  {
+    "month": "2024-06",
+    "item": "Golden Coconut Crunch Chicken(8)",
+    "count": 71,
+    "revenue": 715.74
+  },
+  {
+    "month": "2024-06",
+    "item": "Mai's Golden Flake Fried Chicken(8)",
+    "count": 66,
+    "revenue": 660.27
+  },
+  {
+    "month": "2024-06",
+    "item": "Chicken Fried Rice",
+    "count": 47,
+    "revenue": 588.99
+  },
+  {
+    "month": "2024-06",
+    "item": "Fried Pork Dumplings(10)",
+    "count": 63,
+    "revenue": 576.99
+  },
+  {
+    "month": "2024-06",
+    "item": "House Fried Rice",
+    "count": 37,
+    "revenue": 560.07
+  },
+  {
+    "month": "2024-06",
+    "item": "Mai OG Fried Chicken Wings(4)",
+    "count": 112,
+    "revenue": 566.58
+  },
+  {
+    "month": "2024-06",
+    "item": "Cream Cheese Rangoon(6)",
+    "count": 95,
+    "revenue": 555.17
+  },
+  {
+    "month": "2024-06",
+    "item": "Pork Tossed Rice Noodle",
+    "count": 43,
+    "revenue": 575.37
+  },
+  {
+    "month": "2024-06",
+    "item": "Crispy Pork Egg Roll(3)",
+    "count": 121,
+    "revenue": 482.76
+  },
+  {
+    "month": "2024-06",
+    "item": "Crispy Spring Roll(3)",
+    "count": 119,
+    "revenue": 475.5
+  },
+  {
+    "month": "2024-06",
+    "item": "Steam Pork Dumplings(10)",
+    "count": 54,
+    "revenue": 475.34
+  },
+  {
+    "month": "2024-06",
+    "item": "Brown Sugar Milk Tea w. Boba (24oz)",
+    "count": 103,
+    "revenue": 441.87
+  },
+  {
+    "month": "2024-06",
+    "item": "Pork Rice Noodle Soup",
+    "count": 29,
+    "revenue": 389.42
+  },
+  {
+    "month": "2024-06",
+    "item": "Tempura Shrimp(3)",
+    "count": 83,
+    "revenue": 407.11
+  },
+  {
+    "month": "2024-06",
+    "item": "Vegetable Ramen",
+    "count": 25,
+    "revenue": 362.99
+  },
+  {
+    "month": "2024-06",
+    "item": "Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",
+    "count": 24,
+    "revenue": 302.59
+  },
+  {
+    "month": "2024-06",
+    "item": "Onion Glory Fried Chicken(8)",
+    "count": 31,
+    "revenue": 307.44
+  },
+  {
+    "month": "2024-06",
+    "item": "House Rice Noodle Soup",
+    "count": 20,
+    "revenue": 339.85
+  },
+  {
+    "month": "2024-06",
+    "item": "Dr. Pepper",
+    "count": 90,
+    "revenue": 268.22
+  },
+  {
+    "month": "2024-06",
+    "item": "Spicy Cucumber Salad",
+    "count": 47,
+    "revenue": 252.68
+  },
+  {
+    "month": "2024-06",
+    "item": "Golden kiwi",
+    "count": 62,
+    "revenue": 226.72
+  },
+  {
+    "month": "2024-06",
+    "item": "Shrimp Fried Rice",
+    "count": 18,
+    "revenue": 249.85
+  },
+  {
+    "month": "2024-06",
+    "item": "Citrus Honey Fried Chicken  (8)",
+    "count": 24,
+    "revenue": 241.8
+  },
+  {
+    "month": "2024-06",
+    "item": "Unsweet Ice Tea",
+    "count": 79,
+    "revenue": 232.93
+  },
+  {
+    "month": "2024-06",
+    "item": "Beef Fried Rice",
+    "count": 18,
+    "revenue": 243.61
+  },
+  {
+    "month": "2024-06",
+    "item": "Strawberry Sunrise Tea",
+    "count": 62,
+    "revenue": 235.51
+  },
+  {
+    "month": "2024-06",
+    "item": "Pepsi",
+    "count": 75,
+    "revenue": 216.23
+  },
+  {
+    "month": "2024-06",
+    "item": "BF chicken cutlet",
+    "count": 33,
+    "revenue": 222.28
+  },
+  {
+    "month": "2024-06",
+    "item": "Sweet Ice Tea",
+    "count": 76,
+    "revenue": 220.93
+  },
+  {
+    "month": "2024-06",
+    "item": "Mai Buffalo Chicken Wings(8)",
+    "count": 21,
+    "revenue": 207.85
+  },
+  {
+    "month": "2024-06",
+    "item": "Vegetable Rice Noodle Soup",
+    "count": 15,
+    "revenue": 198.84
+  },
+  {
+    "month": "2024-06",
+    "item": "Specialty Drink",
+    "count": 72,
+    "revenue": 212.94
+  },
+  {
+    "month": "2024-06",
+    "item": "Vegetable Fried Rice",
+    "count": 14,
+    "revenue": 171.38
+  },
+  {
+    "month": "2024-06",
+    "item": "Pork Fried Rice",
+    "count": 12,
+    "revenue": 153.56
+  },
+  {
+    "month": "2024-06",
+    "item": "Pork Bun (3)",
+    "count": 28,
+    "revenue": 159.05
+  },
+  {
+    "month": "2024-06",
+    "item": "Diet Pepsi",
+    "count": 55,
+    "revenue": 161.9
+  },
+  {
+    "month": "2024-06",
+    "item": "Brown Sugar Rice Cake (5)",
+    "count": 22,
+    "revenue": 119.12
+  },
+  {
+    "month": "2024-06",
+    "item": "Jumbo Chicken Tender (3)",
+    "count": 21,
+    "revenue": 118.76
+  },
+  {
+    "month": "2024-06",
+    "item": "Vegetable Tossed Rice Noodle",
+    "count": 8,
+    "revenue": 113.36
+  },
+  {
+    "month": "2024-06",
+    "item": "Crispy French Fries",
+    "count": 36,
+    "revenue": 140.51
+  },
+  {
+    "month": "2024-06",
+    "item": "Mai's Wing Wheel",
+    "count": 8,
+    "revenue": 99.79
+  },
+  {
+    "month": "2024-06",
+    "item": "Tangy Honey Mustard Fried Chicken (8)",
+    "count": 12,
+    "revenue": 111.7
+  },
+  {
+    "month": "2024-06",
+    "item": "Sweet Sesame Ball (6) w. red bean",
+    "count": 20,
+    "revenue": 94.8
+  },
+  {
+    "month": "2024-06",
+    "item": "Milk Tea(20oz)",
+    "count": 19,
+    "revenue": 95.35
+  },
+  {
+    "month": "2024-06",
+    "item": "Thai Milk Tea w. Boba (24oz)-1",
+    "count": 19,
+    "revenue": 88.18
+  },
+  {
+    "month": "2024-06",
+    "item": "Starry - Sprite",
+    "count": 28,
+    "revenue": 81.51
+  },
+  {
+    "month": "2024-06",
+    "item": "Chili Pepper Fried Chicken\uff088\uff09",
+    "count": 7,
+    "revenue": 69.0
+  },
+  {
+    "month": "2024-06",
+    "item": "Wasabi Spiced Fried Chicken (8)",
+    "count": 7,
+    "revenue": 68.93
+  },
+  {
+    "month": "2024-06",
+    "item": "Vegetable Tossed Ramen",
+    "count": 7,
+    "revenue": 99.05
+  },
+  {
+    "month": "2024-06",
+    "item": "Braised Chicken Thigh",
+    "count": 21,
+    "revenue": 66.77
+  },
+  {
+    "month": "2024-06",
+    "item": "Thai Milk Tea w. Boba (24oz)",
+    "count": 15,
+    "revenue": 65.55
+  },
+  {
+    "month": "2024-06",
+    "item": "Lemonade",
+    "count": 23,
+    "revenue": 64.11
+  },
+  {
+    "month": "2024-06",
+    "item": "Mai BF Chicken Cutlet Combo",
+    "count": 5,
+    "revenue": 70.0
+  },
+  {
+    "month": "2024-06",
+    "item": "Chili Pepper Fried Chicken (8)",
+    "count": 4,
+    "revenue": 45.96
+  },
+  {
+    "month": "2024-06",
+    "item": "Cream Cheese Wonton\uff086\uff09",
+    "count": 7,
+    "revenue": 38.93
+  },
+  {
+    "month": "2024-06",
+    "item": "Brown Sugar Milk Tea NO BOBA (24oz)",
+    "count": 9,
+    "revenue": 35.56
+  },
+  {
+    "month": "2024-06",
+    "item": "Rice Noodle",
+    "count": 25,
+    "revenue": 37.73
+  },
+  {
+    "month": "2024-06",
+    "item": "Wasabi Spiced Fried Chicken(8)",
+    "count": 3,
+    "revenue": 33.97
+  },
+  {
+    "month": "2024-06",
+    "item": "Bottled Soda",
+    "count": 17,
+    "revenue": 32.61
+  },
+  {
+    "month": "2024-06",
+    "item": "White Rice - DINE IN",
+    "count": 35,
+    "revenue": 34.5
+  },
+  {
+    "month": "2024-06",
+    "item": "Mango Milk Tea (24oz)",
+    "count": 7,
+    "revenue": 32.87
+  },
+  {
+    "month": "2024-06",
+    "item": "White Rice",
+    "count": 7,
+    "revenue": 26.6
+  },
+  {
+    "month": "2024-06",
+    "item": "Plain Fried Rice",
+    "count": 8,
+    "revenue": 29.99
+  },
+  {
+    "month": "2024-06",
+    "item": "Hot Tea",
+    "count": 12,
+    "revenue": 29.36
+  },
+  {
+    "month": "2024-06",
+    "item": "Orange Crush",
+    "count": 7,
+    "revenue": 22.13
+  },
+  {
+    "month": "2024-06",
+    "item": "Mango Milk Tea",
+    "count": 4,
+    "revenue": 19.62
+  },
+  {
+    "month": "2024-06",
+    "item": "House Tossed Rice Noodle",
+    "count": 1,
+    "revenue": 15.99
+  },
+  {
+    "month": "2024-06",
+    "item": "House Tossed Ramen",
+    "count": 2,
+    "revenue": 31.98
+  },
+  {
+    "month": "2024-06",
+    "item": "Thai Milk Tea NO BOBA (24oz)",
+    "count": 5,
+    "revenue": 19.71
+  },
+  {
+    "month": "2024-06",
+    "item": "Bottled Water",
+    "count": 7,
+    "revenue": 15.1
+  },
+  {
+    "month": "2024-06",
+    "item": "Thai Milk Tea",
+    "count": 4,
+    "revenue": 20.4
+  },
+  {
+    "month": "2024-06",
+    "item": "Crispy French Fries(LG)",
+    "count": 3,
+    "revenue": 14.37
+  },
+  {
+    "month": "2024-06",
+    "item": "Pepsi Zero",
+    "count": 4,
+    "revenue": 14.36
+  },
+  {
+    "month": "2024-06",
+    "item": "Braised Chicken",
+    "count": 4,
+    "revenue": 11.88
+  },
+  {
+    "month": "2024-06",
+    "item": "Pork Bun (1)",
+    "count": 5,
+    "revenue": 10.01
+  },
+  {
+    "month": "2024-06",
+    "item": "Tangy Honey Mustard Fried Chicken(8)",
+    "count": 3,
+    "revenue": 33.97
+  },
+  {
+    "month": "2024-06",
+    "item": "Ramen",
+    "count": 6,
+    "revenue": 8.55
+  },
+  {
+    "month": "2024-06",
+    "item": "Braised Egg",
+    "count": 4,
+    "revenue": 8.36
+  },
+  {
+    "month": "2024-06",
+    "item": "Chunked Beef",
+    "count": 2,
+    "revenue": 7.87
+  },
+  {
+    "month": "2024-06",
+    "item": "Strawberry Milk Tea  (24oz)",
+    "count": 3,
+    "revenue": 11.33
+  },
+  {
+    "month": "2024-06",
+    "item": "Ramune - Original",
+    "count": 2,
+    "revenue": 5.98
+  },
+  {
+    "month": "2024-06",
+    "item": "Braised Pork",
+    "count": 2,
+    "revenue": 5.87
+  },
+  {
+    "month": "2024-06",
+    "item": "Mai\u2018s Special Sauce",
+    "count": 6,
+    "revenue": 5.8
+  },
+  {
+    "month": "2024-06",
+    "item": "Shrimp (8)",
+    "count": 2,
+    "revenue": 5.25
+  },
+  {
+    "month": "2024-06",
+    "item": "Open Food",
+    "count": 1,
+    "revenue": 5.0
+  },
+  {
+    "month": "2024-06",
+    "item": "Sweet Tea",
+    "count": 1,
+    "revenue": 3.59
+  },
+  {
+    "month": "2024-06",
+    "item": "Ramune - Melon",
+    "count": 1,
+    "revenue": 3.59
+  },
+  {
+    "month": "2024-06",
+    "item": "\u5317\u51b0\u6d0b Orange Soda",
+    "count": 1,
+    "revenue": 3.59
+  },
+  {
+    "month": "2024-06",
+    "item": "Ramune - Strawberry",
+    "count": 1,
+    "revenue": 2.99
+  },
+  {
+    "month": "2024-06",
+    "item": "Mai\u2018s special Sauce",
+    "count": 2,
+    "revenue": 2.2
+  },
+  {
+    "month": "2024-06",
+    "item": "Braised Egg \uff082\uff09",
+    "count": 1,
+    "revenue": 1.94
+  },
+  {
+    "month": "2024-06",
+    "item": "White Rice-To Go",
+    "count": 1,
+    "revenue": 1.75
+  },
+  {
+    "month": "2024-06",
+    "item": "Add Boba",
+    "count": 1,
+    "revenue": 0.75
+  },
+  {
+    "month": "2024-06",
+    "item": "Water",
+    "count": 1156,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-06",
+    "item": "Thai Milk Tea (24oz)",
+    "count": 1,
+    "revenue": 5.7
+  },
+  {
+    "month": "2024-06",
+    "item": "Golden kiwi",
+    "count": 9,
+    "revenue": 32.49
+  },
+  {
+    "month": "2024-07",
+    "item": "Beef Tossed Ramen",
+    "count": 321,
+    "revenue": 4564.29
+  },
+  {
+    "month": "2024-07",
+    "item": "Beef Ramen",
+    "count": 273,
+    "revenue": 3986.72
+  },
+  {
+    "month": "2024-07",
+    "item": "Lunch Special",
+    "count": 213,
+    "revenue": 2994.75
+  },
+  {
+    "month": "2024-07",
+    "item": "Chicken Rice Noodle Soup",
+    "count": 173,
+    "revenue": 2486.42
+  },
+  {
+    "month": "2024-07",
+    "item": "Chicken Ramen",
+    "count": 127,
+    "revenue": 1888.36
+  },
+  {
+    "month": "2024-07",
+    "item": "Beef Tossed Rice Noodle",
+    "count": 112,
+    "revenue": 1798.91
+  },
+  {
+    "month": "2024-07",
+    "item": "Pork Tossed Ramen",
+    "count": 141,
+    "revenue": 1907.81
+  },
+  {
+    "month": "2024-07",
+    "item": "Chicken Tossed Ramen",
+    "count": 110,
+    "revenue": 1541.79
+  },
+  {
+    "month": "2024-07",
+    "item": "House Ramen",
+    "count": 84,
+    "revenue": 1428.07
+  },
+  {
+    "month": "2024-07",
+    "item": "Mai Special Fried Chicken(8)",
+    "count": 152,
+    "revenue": 1531.62
+  },
+  {
+    "month": "2024-07",
+    "item": "Pork Ramen",
+    "count": 95,
+    "revenue": 1321.41
+  },
+  {
+    "month": "2024-07",
+    "item": "Chicken Tossed Rice Noodles",
+    "count": 80,
+    "revenue": 1168.76
+  },
+  {
+    "month": "2024-07",
+    "item": "Beef Rice Noodle Soup",
+    "count": 66,
+    "revenue": 1036.74
+  },
+  {
+    "month": "2024-07",
+    "item": "BF chicken cutlet combo",
+    "count": 77,
+    "revenue": 943.49
+  },
+  {
+    "month": "2024-07",
+    "item": "Sichuan Chili Wontons",
+    "count": 82,
+    "revenue": 910.64
+  },
+  {
+    "month": "2024-07",
+    "item": "Fried Pork Dumplings(10)",
+    "count": 85,
+    "revenue": 763.31
+  },
+  {
+    "month": "2024-07",
+    "item": "Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",
+    "count": 55,
+    "revenue": 696.19
+  },
+  {
+    "month": "2024-07",
+    "item": "Cream Cheese Rangoon(6)",
+    "count": 110,
+    "revenue": 660.64
+  },
+  {
+    "month": "2024-07",
+    "item": "Pork Tossed Rice Noodle",
+    "count": 48,
+    "revenue": 633.9
+  },
+  {
+    "month": "2024-07",
+    "item": "Mai's Golden Flake Fried Chicken(8)",
+    "count": 67,
+    "revenue": 680.49
+  },
+  {
+    "month": "2024-07",
+    "item": "Steam Pork Dumplings(10)",
+    "count": 71,
+    "revenue": 633.5
+  },
+  {
+    "month": "2024-07",
+    "item": "Mai OG Fried Chicken Wings(4)",
+    "count": 116,
+    "revenue": 587.7
+  },
+  {
+    "month": "2024-07",
+    "item": "Crispy Spring Roll(3)",
+    "count": 137,
+    "revenue": 549.0
+  },
+  {
+    "month": "2024-07",
+    "item": "Vegetable Ramen",
+    "count": 39,
+    "revenue": 528.97
+  },
+  {
+    "month": "2024-07",
+    "item": "Chicken Fried Rice",
+    "count": 44,
+    "revenue": 571.13
+  },
+  {
+    "month": "2024-07",
+    "item": "Golden Coconut Crunch Chicken(8)",
+    "count": 52,
+    "revenue": 524.09
+  },
+  {
+    "month": "2024-07",
+    "item": "Crispy Pork Egg Roll(3)",
+    "count": 119,
+    "revenue": 477.61
+  },
+  {
+    "month": "2024-07",
+    "item": "Pork Rice Noodle Soup",
+    "count": 33,
+    "revenue": 444.59
+  },
+  {
+    "month": "2024-07",
+    "item": "Pork Bun (3)",
+    "count": 74,
+    "revenue": 437.03
+  },
+  {
+    "month": "2024-07",
+    "item": "House Fried Rice",
+    "count": 29,
+    "revenue": 419.2
+  },
+  {
+    "month": "2024-07",
+    "item": "Brown Sugar Milk Tea w. Boba (24oz)",
+    "count": 101,
+    "revenue": 424.51
+  },
+  {
+    "month": "2024-07",
+    "item": "Tempura Shrimp(3)",
+    "count": 76,
+    "revenue": 376.69
+  },
+  {
+    "month": "2024-07",
+    "item": "Dr. Pepper",
+    "count": 111,
+    "revenue": 327.63
+  },
+  {
+    "month": "2024-07",
+    "item": "House Rice Noodle Soup",
+    "count": 21,
+    "revenue": 339.32
+  },
+  {
+    "month": "2024-07",
+    "item": "Citrus Honey Fried Chicken  (8)",
+    "count": 28,
+    "revenue": 275.98
+  },
+  {
+    "month": "2024-07",
+    "item": "Shrimp Fried Rice",
+    "count": 19,
+    "revenue": 257.36
+  },
+  {
+    "month": "2024-07",
+    "item": "Vegetable Rice Noodle Soup",
+    "count": 22,
+    "revenue": 314.18
+  },
+  {
+    "month": "2024-07",
+    "item": "Beef Fried Rice",
+    "count": 18,
+    "revenue": 247.79
+  },
+  {
+    "month": "2024-07",
+    "item": "Mai BF Chicken Cutlet Combo",
+    "count": 16,
+    "revenue": 225.0
+  },
+  {
+    "month": "2024-07",
+    "item": "Sweet Ice Tea",
+    "count": 83,
+    "revenue": 238.63
+  },
+  {
+    "month": "2024-07",
+    "item": "Steam Pork Bun \uff083\uff09",
+    "count": 37,
+    "revenue": 251.63
+  },
+  {
+    "month": "2024-07",
+    "item": "Diet Pepsi",
+    "count": 67,
+    "revenue": 198.32
+  },
+  {
+    "month": "2024-07",
+    "item": "Specialty Drink",
+    "count": 78,
+    "revenue": 224.43
+  },
+  {
+    "month": "2024-07",
+    "item": "Unsweet Ice Tea",
+    "count": 78,
+    "revenue": 218.33
+  },
+  {
+    "month": "2024-07",
+    "item": "Thai Milk Tea w. Boba (24oz)",
+    "count": 50,
+    "revenue": 200.73
+  },
+  {
+    "month": "2024-07",
+    "item": "Pepsi",
+    "count": 73,
+    "revenue": 208.47
+  },
+  {
+    "month": "2024-07",
+    "item": "Onion Glory Fried Chicken(8)",
+    "count": 19,
+    "revenue": 180.3
+  },
+  {
+    "month": "2024-07",
+    "item": "Pork Fried Rice",
+    "count": 13,
+    "revenue": 165.57
+  },
+  {
+    "month": "2024-07",
+    "item": "Spicy Cucumber Salad",
+    "count": 29,
+    "revenue": 152.92
+  },
+  {
+    "month": "2024-07",
+    "item": "Vegetable Tossed Rice Noodle",
+    "count": 11,
+    "revenue": 161.14
+  },
+  {
+    "month": "2024-07",
+    "item": "Milk Tea(24oz)",
+    "count": 28,
+    "revenue": 152.95
+  },
+  {
+    "month": "2024-07",
+    "item": "Golden kiwi (16oz)",
+    "count": 42,
+    "revenue": 161.82
+  },
+  {
+    "month": "2024-07",
+    "item": "Strawberry Sunrise\uff0816oz)",
+    "count": 42,
+    "revenue": 152.64
+  },
+  {
+    "month": "2024-07",
+    "item": "Strawberry Sunrise Tea",
+    "count": 33,
+    "revenue": 122.66
+  },
+  {
+    "month": "2024-07",
+    "item": "Mai Buffalo Chicken Wings(8)",
+    "count": 14,
+    "revenue": 140.33
+  },
+  {
+    "month": "2024-07",
+    "item": "Jumbo Chicken Tenders Combo (3)",
+    "count": 10,
+    "revenue": 98.46
+  },
+  {
+    "month": "2024-07",
+    "item": "Starry - Sprite",
+    "count": 35,
+    "revenue": 100.88
+  },
+  {
+    "month": "2024-07",
+    "item": "Thai Milk Tea (24oz)",
+    "count": 17,
+    "revenue": 91.2
+  },
+  {
+    "month": "2024-07",
+    "item": "Vegetable Fried Rice",
+    "count": 7,
+    "revenue": 87.21
+  },
+  {
+    "month": "2024-07",
+    "item": "BF chicken cutlet",
+    "count": 13,
+    "revenue": 85.12
+  },
+  {
+    "month": "2024-07",
+    "item": "Jumbo Chicken Tender (3)",
+    "count": 17,
+    "revenue": 84.58
+  },
+  {
+    "month": "2024-07",
+    "item": "Strawberry Sunrise\uff0824oz)",
+    "count": 20,
+    "revenue": 85.02
+  },
+  {
+    "month": "2024-07",
+    "item": "Brown Sugar Rice Cake (5)",
+    "count": 14,
+    "revenue": 75.69
+  },
+  {
+    "month": "2024-07",
+    "item": "Crispy French Fries",
+    "count": 22,
+    "revenue": 85.08
+  },
+  {
+    "month": "2024-07",
+    "item": "Lemonade",
+    "count": 27,
+    "revenue": 76.64
+  },
+  {
+    "month": "2024-07",
+    "item": "Chili Pepper Fried Chicken\uff088\uff09",
+    "count": 7,
+    "revenue": 69.43
+  },
+  {
+    "month": "2024-07",
+    "item": "Tangy Honey Mustard Fried Chicken (8)",
+    "count": 8,
+    "revenue": 77.46
+  },
+  {
+    "month": "2024-07",
+    "item": "Vegetable Tossed Ramen",
+    "count": 5,
+    "revenue": 67.24
+  },
+  {
+    "month": "2024-07",
+    "item": "Sweet Sesame Ball (6) w. red bean",
+    "count": 15,
+    "revenue": 71.72
+  },
+  {
+    "month": "2024-07",
+    "item": "Golden kiwi (24oz)",
+    "count": 17,
+    "revenue": 76.02
+  },
+  {
+    "month": "2024-07",
+    "item": "Wasabi Spiced Fried Chicken(8)",
+    "count": 5,
+    "revenue": 59.95
+  },
+  {
+    "month": "2024-07",
+    "item": "Wasabi Spiced Fried Chicken (8)",
+    "count": 6,
+    "revenue": 59.94
+  },
+  {
+    "month": "2024-07",
+    "item": "Mango Milk Tea (24oz)",
+    "count": 13,
+    "revenue": 59.73
+  },
+  {
+    "month": "2024-07",
+    "item": "Brown Sugar Milk Tea NO BOBA (24oz)",
+    "count": 15,
+    "revenue": 56.89
+  },
+  {
+    "month": "2024-07",
+    "item": "Thai Milk Tea NO BOBA (24oz)",
+    "count": 17,
+    "revenue": 67.67
+  },
+  {
+    "month": "2024-07",
+    "item": "Strawberry Milk Tea  (24oz)",
+    "count": 15,
+    "revenue": 67.07
+  },
+  {
+    "month": "2024-07",
+    "item": "House Tossed Ramen",
+    "count": 4,
+    "revenue": 65.88
+  },
+  {
+    "month": "2024-07",
+    "item": "Orange Crush",
+    "count": 15,
+    "revenue": 45.72
+  },
+  {
+    "month": "2024-07",
+    "item": "Hot Tea",
+    "count": 18,
+    "revenue": 52.81
+  },
+  {
+    "month": "2024-07",
+    "item": "Golden kiwi",
+    "count": 12,
+    "revenue": 42.72
+  },
+  {
+    "month": "2024-07",
+    "item": "Tangy Honey Mustard Fried Chicken(8)",
+    "count": 3,
+    "revenue": 35.97
+  },
+  {
+    "month": "2024-07",
+    "item": "Plain Fried Rice",
+    "count": 10,
+    "revenue": 38.87
+  },
+  {
+    "month": "2024-07",
+    "item": "Pepsi zero",
+    "count": 11,
+    "revenue": 32.51
+  },
+  {
+    "month": "2024-07",
+    "item": "Chunked Beef",
+    "count": 7,
+    "revenue": 27.87
+  },
+  {
+    "month": "2024-07",
+    "item": "Crispy French Fries(LG)",
+    "count": 6,
+    "revenue": 26.34
+  },
+  {
+    "month": "2024-07",
+    "item": "Bottled Soda",
+    "count": 17,
+    "revenue": 30.15
+  },
+  {
+    "month": "2024-07",
+    "item": "Rice Noodle",
+    "count": 12,
+    "revenue": 18.35
+  },
+  {
+    "month": "2024-07",
+    "item": "Pork Bun (1)",
+    "count": 9,
+    "revenue": 19.91
+  },
+  {
+    "month": "2024-07",
+    "item": "Ramen",
+    "count": 13,
+    "revenue": 19.33
+  },
+  {
+    "month": "2024-07",
+    "item": "Braised Egg \uff082 half\uff09",
+    "count": 9,
+    "revenue": 17.66
+  },
+  {
+    "month": "2024-07",
+    "item": "House Tossed Rice Noodle",
+    "count": 1,
+    "revenue": 15.68
+  },
+  {
+    "month": "2024-07",
+    "item": "White Rice-To Go",
+    "count": 4,
+    "revenue": 14.0
+  },
+  {
+    "month": "2024-07",
+    "item": "White Rice - DINE IN",
+    "count": 16,
+    "revenue": 15.8
+  },
+  {
+    "month": "2024-07",
+    "item": "Chili Pepper Fried Chicken (8)",
+    "count": 1,
+    "revenue": 11.99
+  },
+  {
+    "month": "2024-07",
+    "item": "Shrimp (8)",
+    "count": 5,
+    "revenue": 14.88
+  },
+  {
+    "month": "2024-07",
+    "item": "Bottled Water",
+    "count": 7,
+    "revenue": 13.7
+  },
+  {
+    "month": "2024-07",
+    "item": "Chicken Tender combo w fries and drink",
+    "count": 1,
+    "revenue": 10.5
+  },
+  {
+    "month": "2024-07",
+    "item": "Braised Pork",
+    "count": 3,
+    "revenue": 8.62
+  },
+  {
+    "month": "2024-07",
+    "item": "Milkis",
+    "count": 2,
+    "revenue": 7.18
+  },
+  {
+    "month": "2024-07",
+    "item": "Unsweet Tea",
+    "count": 2,
+    "revenue": 7.18
+  },
+  {
+    "month": "2024-07",
+    "item": "White Rice",
+    "count": 3,
+    "revenue": 11.2
+  },
+  {
+    "month": "2024-07",
+    "item": "Gift Card",
+    "count": 1,
+    "revenue": 5.99
+  },
+  {
+    "month": "2024-07",
+    "item": "Open Food",
+    "count": 3,
+    "revenue": 5.75
+  },
+  {
+    "month": "2024-07",
+    "item": "Ramune - Melon",
+    "count": 1,
+    "revenue": 3.59
+  },
+  {
+    "month": "2024-07",
+    "item": "Starry",
+    "count": 1,
+    "revenue": 3.59
+  },
+  {
+    "month": "2024-07",
+    "item": "Ramune - Strawberry",
+    "count": 1,
+    "revenue": 3.59
+  },
+  {
+    "month": "2024-07",
+    "item": "Coconut Milk",
+    "count": 1,
+    "revenue": 3.59
+  },
+  {
+    "month": "2024-07",
+    "item": "Ramune - Grape",
+    "count": 1,
+    "revenue": 3.59
+  },
+  {
+    "month": "2024-07",
+    "item": "Braised Chicken",
+    "count": 2,
+    "revenue": 6.58
+  },
+  {
+    "month": "2024-07",
+    "item": "Mai\u2018s special Sauce",
+    "count": 2,
+    "revenue": 2.4
+  },
+  {
+    "month": "2024-07",
+    "item": "Braised Egg",
+    "count": 2,
+    "revenue": 4.78
+  },
+  {
+    "month": "2024-07",
+    "item": "Braised Egg \uff082\uff09",
+    "count": 1,
+    "revenue": 1.89
+  },
+  {
+    "month": "2024-07",
+    "item": "Mai\u2018s Special Sauce",
+    "count": 2,
+    "revenue": 1.98
+  },
+  {
+    "month": "2024-07",
+    "item": "Chunked Pork - 5 days exp",
+    "count": 2,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-07",
+    "item": "Water",
+    "count": 1149,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-07",
+    "item": "Chinese Bockchoy- 5 days exp",
+    "count": 4,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-07",
+    "item": "Braised Chicken - 5 days exp",
+    "count": 1,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-07",
+    "item": "Sliced Fruit  - 5 day expiration",
+    "count": 26,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-07",
+    "item": "Brew Tea - 5 days exp",
+    "count": 7,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-07",
+    "item": "Ramune - Orange",
+    "count": 1,
+    "revenue": 3.59
+  },
+  {
+    "month": "2024-08",
+    "item": "Beef Ramen",
+    "count": 328,
+    "revenue": 5032.52
+  },
+  {
+    "month": "2024-08",
+    "item": "Lunch Special",
+    "count": 308,
+    "revenue": 4160.47
+  },
+  {
+    "month": "2024-08",
+    "item": "Beef Tossed Ramen",
+    "count": 214,
+    "revenue": 3166.6
+  },
+  {
+    "month": "2024-08",
+    "item": "Mai's BF Chicken Cutlet Combo",
+    "count": 201,
+    "revenue": 3047.09
+  },
+  {
+    "month": "2024-08",
+    "item": "Chicken Ramen",
+    "count": 181,
+    "revenue": 2613.36
+  },
+  {
+    "month": "2024-08",
+    "item": "Pork Ramen",
+    "count": 173,
+    "revenue": 2413.66
+  },
+  {
+    "month": "2024-08",
+    "item": "Beef Tossed Rice Noodle",
+    "count": 146,
+    "revenue": 2343.52
+  },
+  {
+    "month": "2024-08",
+    "item": "Sichuan Chili Wontons",
+    "count": 181,
+    "revenue": 2027.16
+  },
+  {
+    "month": "2024-08",
+    "item": "Chicken Rice Noodle Soup",
+    "count": 132,
+    "revenue": 1922.45
+  },
+  {
+    "month": "2024-08",
+    "item": "Beef Rice Noodle Soup",
+    "count": 123,
+    "revenue": 1889.06
+  },
+  {
+    "month": "2024-08",
+    "item": "House Ramen",
+    "count": 112,
+    "revenue": 1830.92
+  },
+  {
+    "month": "2024-08",
+    "item": "Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",
+    "count": 129,
+    "revenue": 1761.18
+  },
+  {
+    "month": "2024-08",
+    "item": "Chicken Tossed Rice Noodles",
+    "count": 115,
+    "revenue": 1648.14
+  },
+  {
+    "month": "2024-08",
+    "item": "Mai Special Fried Chicken(8)",
+    "count": 157,
+    "revenue": 1538.48
+  },
+  {
+    "month": "2024-08",
+    "item": "Pork Tossed Ramen",
+    "count": 116,
+    "revenue": 1553.8
+  },
+  {
+    "month": "2024-08",
+    "item": "Chicken Fried Rice",
+    "count": 130,
+    "revenue": 1568.64
+  },
+  {
+    "month": "2024-08",
+    "item": "Pork Tossed Rice Noodle",
+    "count": 100,
+    "revenue": 1355.56
+  },
+  {
+    "month": "2024-08",
+    "item": "Chicken Tossed Ramen",
+    "count": 101,
+    "revenue": 1439.54
+  },
+  {
+    "month": "2024-08",
+    "item": "Steamed Pork Buns",
+    "count": 233,
+    "revenue": 1190.88
+  },
+  {
+    "month": "2024-08",
+    "item": "Shrimp Fried Rice",
+    "count": 87,
+    "revenue": 1113.51
+  },
+  {
+    "month": "2024-08",
+    "item": "Beef Fried Rice",
+    "count": 75,
+    "revenue": 992.82
+  },
+  {
+    "month": "2024-08",
+    "item": "Fried Pork Dumplings(10)",
+    "count": 108,
+    "revenue": 970.51
+  },
+  {
+    "month": "2024-08",
+    "item": "House Rice Noodle Soup",
+    "count": 61,
+    "revenue": 997.21
+  },
+  {
+    "month": "2024-08",
+    "item": "House Fried Rice",
+    "count": 72,
+    "revenue": 1004.67
+  },
+  {
+    "month": "2024-08",
+    "item": "Pork Rice Noodle Soup",
+    "count": 63,
+    "revenue": 889.57
+  },
+  {
+    "month": "2024-08",
+    "item": "Steam Pork Dumplings(10)",
+    "count": 106,
+    "revenue": 948.27
+  },
+  {
+    "month": "2024-08",
+    "item": "Vegetable Ramen",
+    "count": 50,
+    "revenue": 684.06
+  },
+  {
+    "month": "2024-08",
+    "item": "Cream Cheese Rangoon(6)",
+    "count": 117,
+    "revenue": 716.65
+  },
+  {
+    "month": "2024-08",
+    "item": "Brown Sugar Milk Tea w. boba",
+    "count": 149,
+    "revenue": 601.79
+  },
+  {
+    "month": "2024-08",
+    "item": "House Tossed Rice Noodle",
+    "count": 35,
+    "revenue": 560.46
+  },
+  {
+    "month": "2024-08",
+    "item": "Citrus Honey Fried Chicken  (8)",
+    "count": 53,
+    "revenue": 536.24
+  },
+  {
+    "month": "2024-08",
+    "item": "Tempura Shrimp(3)",
+    "count": 102,
+    "revenue": 487.66
+  },
+  {
+    "month": "2024-08",
+    "item": "Mai's Golden Flake Fried Chicken(8)",
+    "count": 50,
+    "revenue": 533.85
+  },
+  {
+    "month": "2024-08",
+    "item": "Crispy Spring Roll(3)",
+    "count": 132,
+    "revenue": 523.04
+  },
+  {
+    "month": "2024-08",
+    "item": "Chili Pepper Fried Chicken\uff088\uff09",
+    "count": 51,
+    "revenue": 509.24
+  },
+  {
+    "month": "2024-08",
+    "item": "Thai Milk Tea w. boba",
+    "count": 98,
+    "revenue": 433.74
+  },
+  {
+    "month": "2024-08",
+    "item": "House Tossed Ramen",
+    "count": 27,
+    "revenue": 443.31
+  },
+  {
+    "month": "2024-08",
+    "item": "Spicy Cucumber Salad",
+    "count": 69,
+    "revenue": 378.5
+  },
+  {
+    "month": "2024-08",
+    "item": "Mai BF Chicken Cutlet Combo",
+    "count": 20,
+    "revenue": 347.38
+  },
+  {
+    "month": "2024-08",
+    "item": "Vegetable Rice Noodle Soup",
+    "count": 25,
+    "revenue": 355.64
+  },
+  {
+    "month": "2024-08",
+    "item": "Vegetable Fried Rice",
+    "count": 31,
+    "revenue": 361.06
+  },
+  {
+    "month": "2024-08",
+    "item": "Pork Fried Rice",
+    "count": 27,
+    "revenue": 344.44
+  },
+  {
+    "month": "2024-08",
+    "item": "Jumbo Chicken Tenders Combo (3)",
+    "count": 39,
+    "revenue": 378.75
+  },
+  {
+    "month": "2024-08",
+    "item": "Golden Coconut Crunch Chicken(8)",
+    "count": 33,
+    "revenue": 339.86
+  },
+  {
+    "month": "2024-08",
+    "item": "Wonton Soup",
+    "count": 30,
+    "revenue": 328.39
+  },
+  {
+    "month": "2024-08",
+    "item": "Crispy Pork Egg Roll(3)",
+    "count": 75,
+    "revenue": 295.23
+  },
+  {
+    "month": "2024-08",
+    "item": "Vegetable Tossed Rice Noodle",
+    "count": 24,
+    "revenue": 324.97
+  },
+  {
+    "month": "2024-08",
+    "item": "Vegetable Tossed Ramen",
+    "count": 22,
+    "revenue": 305.12
+  },
+  {
+    "month": "2024-08",
+    "item": "Mai OG Fried Chicken Wings(4)",
+    "count": 51,
+    "revenue": 274.32
+  },
+  {
+    "month": "2024-08",
+    "item": "Brown Sugar Rice Cake (5)",
+    "count": 54,
+    "revenue": 289.82
+  },
+  {
+    "month": "2024-08",
+    "item": "Dr. Pepper",
+    "count": 94,
+    "revenue": 279.4
+  },
+  {
+    "month": "2024-08",
+    "item": "Pepsi zero",
+    "count": 91,
+    "revenue": 260.31
+  },
+  {
+    "month": "2024-08",
+    "item": "Pepsi",
+    "count": 87,
+    "revenue": 253.94
+  },
+  {
+    "month": "2024-08",
+    "item": "Tangy Honey Mustard Fried Chicken (8)",
+    "count": 28,
+    "revenue": 259.41
+  },
+  {
+    "month": "2024-08",
+    "item": "Sweet Ice Tea",
+    "count": 87,
+    "revenue": 247.16
+  },
+  {
+    "month": "2024-08",
+    "item": "Sweet Sesame Ball (6) w. red bean",
+    "count": 48,
+    "revenue": 223.93
+  },
+  {
+    "month": "2024-08",
+    "item": "Strawberry Sunrise",
+    "count": 61,
+    "revenue": 249.01
+  },
+  {
+    "month": "2024-08",
+    "item": "Mai's BF Chicken Cutlet",
+    "count": 29,
+    "revenue": 218.02
+  },
+  {
+    "month": "2024-08",
+    "item": "Onion Glory Fried Chicken(8)",
+    "count": 23,
+    "revenue": 237.88
+  },
+  {
+    "month": "2024-08",
+    "item": "Golden Kiwi",
+    "count": 49,
+    "revenue": 203.94
+  },
+  {
+    "month": "2024-08",
+    "item": "Unsweet Ice Tea",
+    "count": 69,
+    "revenue": 201.11
+  },
+  {
+    "month": "2024-08",
+    "item": "Specialty Drink",
+    "count": 69,
+    "revenue": 203.14
+  },
+  {
+    "month": "2024-08",
+    "item": "Mai Buffalo Chicken Wings(8)",
+    "count": 22,
+    "revenue": 214.18
+  },
+  {
+    "month": "2024-08",
+    "item": "Crispy French Fries(LG)",
+    "count": 43,
+    "revenue": 168.35
+  },
+  {
+    "month": "2024-08",
+    "item": "Lemonade",
+    "count": 59,
+    "revenue": 175.02
+  },
+  {
+    "month": "2024-08",
+    "item": "Mango Milk Tea",
+    "count": 40,
+    "revenue": 190.2
+  },
+  {
+    "month": "2024-08",
+    "item": "Strawberry Milk Tea",
+    "count": 42,
+    "revenue": 186.52
+  },
+  {
+    "month": "2024-08",
+    "item": "Steam Pork Bun \uff083\uff09",
+    "count": 16,
+    "revenue": 113.94
+  },
+  {
+    "month": "2024-08",
+    "item": "Hot Tea",
+    "count": 35,
+    "revenue": 103.03
+  },
+  {
+    "month": "2024-08",
+    "item": "Brown Sugar Milk Tea",
+    "count": 22,
+    "revenue": 99.33
+  },
+  {
+    "month": "2024-08",
+    "item": "Strawberry Jas-Lemonade",
+    "count": 23,
+    "revenue": 94.87
+  },
+  {
+    "month": "2024-08",
+    "item": "BF chicken cutlet combo",
+    "count": 7,
+    "revenue": 92.5
+  },
+  {
+    "month": "2024-08",
+    "item": "Mango Jas-Lemonade",
+    "count": 17,
+    "revenue": 72.87
+  },
+  {
+    "month": "2024-08",
+    "item": "Plain Fried Rice",
+    "count": 18,
+    "revenue": 80.25
+  },
+  {
+    "month": "2024-08",
+    "item": "White Rice - DINE IN",
+    "count": 48,
+    "revenue": 73.59
+  },
+  {
+    "month": "2024-08",
+    "item": "Starry - Sprite",
+    "count": 23,
+    "revenue": 67.46
+  },
+  {
+    "month": "2024-08",
+    "item": "Matcha Milk Tea w. boba",
+    "count": 16,
+    "revenue": 72.67
+  },
+  {
+    "month": "2024-08",
+    "item": "Peach Jas-Lemonade",
+    "count": 13,
+    "revenue": 58.69
+  },
+  {
+    "month": "2024-08",
+    "item": "Jumbo Chicken Tenders(3)",
+    "count": 10,
+    "revenue": 61.24
+  },
+  {
+    "month": "2024-08",
+    "item": "Original Jas-Lemonade",
+    "count": 13,
+    "revenue": 58.29
+  },
+  {
+    "month": "2024-08",
+    "item": "Gift Card",
+    "count": 5,
+    "revenue": 45.0
+  },
+  {
+    "month": "2024-08",
+    "item": "Bottled Soda",
+    "count": 15,
+    "revenue": 42.74
+  },
+  {
+    "month": "2024-08",
+    "item": "Ramen",
+    "count": 17,
+    "revenue": 41.2
+  },
+  {
+    "month": "2024-08",
+    "item": "Lychee Jas-Lemonade",
+    "count": 10,
+    "revenue": 37.81
+  },
+  {
+    "month": "2024-08",
+    "item": "Pork Bun (3)",
+    "count": 6,
+    "revenue": 35.94
+  },
+  {
+    "month": "2024-08",
+    "item": "Orange Crush",
+    "count": 13,
+    "revenue": 38.73
+  },
+  {
+    "month": "2024-08",
+    "item": "Chunked Beef",
+    "count": 10,
+    "revenue": 39.28
+  },
+  {
+    "month": "2024-08",
+    "item": "Rice Noodle",
+    "count": 15,
+    "revenue": 36.91
+  },
+  {
+    "month": "2024-08",
+    "item": "Braised Pork",
+    "count": 9,
+    "revenue": 29.82
+  },
+  {
+    "month": "2024-08",
+    "item": "Braised Egg \uff082 half\uff09",
+    "count": 15,
+    "revenue": 26.3
+  },
+  {
+    "month": "2024-08",
+    "item": "Thai Milk Tea",
+    "count": 5,
+    "revenue": 24.37
+  },
+  {
+    "month": "2024-08",
+    "item": "White Rice",
+    "count": 9,
+    "revenue": 26.92
+  },
+  {
+    "month": "2024-08",
+    "item": "Blueberry Jas-Lemonade",
+    "count": 6,
+    "revenue": 20.52
+  },
+  {
+    "month": "2024-08",
+    "item": "Ramune - Strawberry",
+    "count": 5,
+    "revenue": 18.23
+  },
+  {
+    "month": "2024-08",
+    "item": "BF chicken cutlet",
+    "count": 2,
+    "revenue": 15.0
+  },
+  {
+    "month": "2024-08",
+    "item": "Braised Chicken",
+    "count": 5,
+    "revenue": 14.2
+  },
+  {
+    "month": "2024-08",
+    "item": "Chili Pepper Fried Chicken (8)",
+    "count": 1,
+    "revenue": 11.99
+  },
+  {
+    "month": "2024-08",
+    "item": "Tangy Honey Mustard Fried Chicken(8)",
+    "count": 1,
+    "revenue": 11.99
+  },
+  {
+    "month": "2024-08",
+    "item": "Bottled Water",
+    "count": 7,
+    "revenue": 12.64
+  },
+  {
+    "month": "2024-08",
+    "item": "Wasabi Spiced Fried Chicken (8)",
+    "count": 1,
+    "revenue": 9.99
+  },
+  {
+    "month": "2024-08",
+    "item": "Shrimp (8)",
+    "count": 4,
+    "revenue": 12.84
+  },
+  {
+    "month": "2024-08",
+    "item": "White Rice-To Go",
+    "count": 3,
+    "revenue": 9.5
+  },
+  {
+    "month": "2024-08",
+    "item": "Crispy French Fries",
+    "count": 2,
+    "revenue": 7.98
+  },
+  {
+    "month": "2024-08",
+    "item": "Pepsi Zero",
+    "count": 2,
+    "revenue": 7.32
+  },
+  {
+    "month": "2024-08",
+    "item": "Ramune - Melon",
+    "count": 2,
+    "revenue": 6.58
+  },
+  {
+    "month": "2024-08",
+    "item": "Sweet Tea",
+    "count": 2,
+    "revenue": 5.98
+  },
+  {
+    "month": "2024-08",
+    "item": "Jumbo Chicken Tender (3)",
+    "count": 1,
+    "revenue": 5.5
+  },
+  {
+    "month": "2024-08",
+    "item": "Strawberry Milk Tea  (24oz)",
+    "count": 1,
+    "revenue": 5.5
+  },
+  {
+    "month": "2024-08",
+    "item": "Tropical Jas-Lemonade",
+    "count": 2,
+    "revenue": 3.8
+  },
+  {
+    "month": "2024-08",
+    "item": "Coconut Milk",
+    "count": 1,
+    "revenue": 3.66
+  },
+  {
+    "month": "2024-08",
+    "item": "Ramune - Original",
+    "count": 1,
+    "revenue": 3.59
+  },
+  {
+    "month": "2024-08",
+    "item": "Brown Sugar Milk Tea w. Boba (24oz)",
+    "count": 1,
+    "revenue": 2.37
+  },
+  {
+    "month": "2024-08",
+    "item": "Pork Bun (1)",
+    "count": 1,
+    "revenue": 2.25
+  },
+  {
+    "month": "2024-08",
+    "item": "Open Food",
+    "count": 1,
+    "revenue": 1.5
+  },
+  {
+    "month": "2024-08",
+    "item": "Popping boba -",
+    "count": 1,
+    "revenue": 1.0
+  },
+  {
+    "month": "2024-08",
+    "item": "Mai\u2018s special Sauce",
+    "count": 1,
+    "revenue": 1.0
+  },
+  {
+    "month": "2024-08",
+    "item": "Popping boba - -1",
+    "count": 1,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-08",
+    "item": "Sliced Fruit  - 5 day expiration",
+    "count": 17,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-08",
+    "item": "Brew Tea - 5 days exp",
+    "count": 5,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-08",
+    "item": "Braised Chicken - 5 days exp",
+    "count": 4,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-08",
+    "item": "Chunked Pork - 5 days exp",
+    "count": 2,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-08",
+    "item": "Chunked Beef - 5 days exp",
+    "count": 8,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-08",
+    "item": "Water",
+    "count": 2140,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-08",
+    "item": "Braised Egg",
+    "count": 2,
+    "revenue": 3.89
+  },
+  {
+    "month": "2024-09",
+    "item": "Beef Ramen",
+    "count": 362,
+    "revenue": 5626.37
+  },
+  {
+    "month": "2024-09",
+    "item": "Lunch Special",
+    "count": 398,
+    "revenue": 5606.57
+  },
+  {
+    "month": "2024-09",
+    "item": "Mai's BF Chicken Cutlet Combo",
+    "count": 285,
+    "revenue": 4312.18
+  },
+  {
+    "month": "2024-09",
+    "item": "Pork Ramen",
+    "count": 242,
+    "revenue": 3360.22
+  },
+  {
+    "month": "2024-09",
+    "item": "Chicken Ramen",
+    "count": 205,
+    "revenue": 2976.79
+  },
+  {
+    "month": "2024-09",
+    "item": "Beef Tossed Ramen",
+    "count": 188,
+    "revenue": 2867.41
+  },
+  {
+    "month": "2024-09",
+    "item": "Beef Tossed Rice Noodle",
+    "count": 154,
+    "revenue": 2519.72
+  },
+  {
+    "month": "2024-09",
+    "item": "Mai Special Fried Chicken(8)",
+    "count": 210,
+    "revenue": 2225.58
+  },
+  {
+    "month": "2024-09",
+    "item": "Sichuan Chili Wontons",
+    "count": 185,
+    "revenue": 2054.87
+  },
+  {
+    "month": "2024-09",
+    "item": "House Ramen",
+    "count": 119,
+    "revenue": 1972.32
+  },
+  {
+    "month": "2024-09",
+    "item": "Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",
+    "count": 144,
+    "revenue": 1968.55
+  },
+  {
+    "month": "2024-09",
+    "item": "Chicken Rice Noodle Soup",
+    "count": 133,
+    "revenue": 1961.81
+  },
+  {
+    "month": "2024-09",
+    "item": "Chicken Fried Rice",
+    "count": 148,
+    "revenue": 1849.24
+  },
+  {
+    "month": "2024-09",
+    "item": "Beef Rice Noodle Soup",
+    "count": 115,
+    "revenue": 1807.11
+  },
+  {
+    "month": "2024-09",
+    "item": "Pork Tossed Ramen",
+    "count": 137,
+    "revenue": 1810.77
+  },
+  {
+    "month": "2024-09",
+    "item": "Pork Tossed Rice Noodle",
+    "count": 115,
+    "revenue": 1563.27
+  },
+  {
+    "month": "2024-09",
+    "item": "Chicken Tossed Rice Noodles",
+    "count": 104,
+    "revenue": 1523.75
+  },
+  {
+    "month": "2024-09",
+    "item": "Steamed Pork Buns",
+    "count": 321,
+    "revenue": 1423.98
+  },
+  {
+    "month": "2024-09",
+    "item": "Pork Rice Noodle Soup",
+    "count": 95,
+    "revenue": 1299.33
+  },
+  {
+    "month": "2024-09",
+    "item": "Chicken Tossed Ramen",
+    "count": 98,
+    "revenue": 1399.24
+  },
+  {
+    "month": "2024-09",
+    "item": "House Rice Noodle Soup",
+    "count": 81,
+    "revenue": 1301.92
+  },
+  {
+    "month": "2024-09",
+    "item": "House Fried Rice",
+    "count": 84,
+    "revenue": 1206.15
+  },
+  {
+    "month": "2024-09",
+    "item": "Shrimp Fried Rice",
+    "count": 84,
+    "revenue": 1112.14
+  },
+  {
+    "month": "2024-09",
+    "item": "Fried Pork Dumplings(10)",
+    "count": 111,
+    "revenue": 1013.36
+  },
+  {
+    "month": "2024-09",
+    "item": "Steam Pork Dumplings(10)",
+    "count": 116,
+    "revenue": 1011.17
+  },
+  {
+    "month": "2024-09",
+    "item": "Cream Cheese Rangoon(6)",
+    "count": 148,
+    "revenue": 938.89
+  },
+  {
+    "month": "2024-09",
+    "item": "Beef Fried Rice",
+    "count": 63,
+    "revenue": 831.05
+  },
+  {
+    "month": "2024-09",
+    "item": "Brown Sugar Milk Tea w. boba",
+    "count": 169,
+    "revenue": 734.42
+  },
+  {
+    "month": "2024-09",
+    "item": "Thai Milk Tea w. boba",
+    "count": 160,
+    "revenue": 716.2
+  },
+  {
+    "month": "2024-09",
+    "item": "Vegetable Fried Rice",
+    "count": 32,
+    "revenue": 672.43
+  },
+  {
+    "month": "2024-09",
+    "item": "Crispy Spring Roll(3)",
+    "count": 133,
+    "revenue": 674.23
+  },
+  {
+    "month": "2024-09",
+    "item": "Vegetable Ramen",
+    "count": 49,
+    "revenue": 679.6
+  },
+  {
+    "month": "2024-09",
+    "item": "House Tossed Rice Noodle",
+    "count": 39,
+    "revenue": 646.75
+  },
+  {
+    "month": "2024-09",
+    "item": "Mai's Golden Flake Fried Chicken(8)",
+    "count": 56,
+    "revenue": 596.99
+  },
+  {
+    "month": "2024-09",
+    "item": "House Tossed Ramen",
+    "count": 35,
+    "revenue": 568.0
+  },
+  {
+    "month": "2024-09",
+    "item": "Wonton Soup",
+    "count": 48,
+    "revenue": 538.02
+  },
+  {
+    "month": "2024-09",
+    "item": "Pork Fried Rice",
+    "count": 40,
+    "revenue": 534.8
+  },
+  {
+    "month": "2024-09",
+    "item": "Citrus Honey Fried Chicken  (8)",
+    "count": 48,
+    "revenue": 489.69
+  },
+  {
+    "month": "2024-09",
+    "item": "Golden Coconut Crunch Chicken(8)",
+    "count": 45,
+    "revenue": 454.18
+  },
+  {
+    "month": "2024-09",
+    "item": "Tempura Shrimp(3)",
+    "count": 95,
+    "revenue": 473.75
+  },
+  {
+    "month": "2024-09",
+    "item": "Vegetable Rice Noodle Soup",
+    "count": 30,
+    "revenue": 440.89
+  },
+  {
+    "month": "2024-09",
+    "item": "Chili Pepper Fried Chicken\uff088\uff09",
+    "count": 44,
+    "revenue": 449.47
+  },
+  {
+    "month": "2024-09",
+    "item": "Spicy Cucumber Salad",
+    "count": 75,
+    "revenue": 412.16
+  },
+  {
+    "month": "2024-09",
+    "item": "Vegetable Tossed Rice Noodle",
+    "count": 29,
+    "revenue": 391.93
+  },
+  {
+    "month": "2024-09",
+    "item": "Matcha Milk Tea w. boba",
+    "count": 81,
+    "revenue": 397.22
+  },
+  {
+    "month": "2024-09",
+    "item": "Mango Milk Tea",
+    "count": 81,
+    "revenue": 383.84
+  },
+  {
+    "month": "2024-09",
+    "item": "Mai's BF Chicken Cutlet",
+    "count": 54,
+    "revenue": 384.46
+  },
+  {
+    "month": "2024-09",
+    "item": "Strawberry Sunrise",
+    "count": 91,
+    "revenue": 371.18
+  },
+  {
+    "month": "2024-09",
+    "item": "Mai BF Chicken Cutlet Combo",
+    "count": 22,
+    "revenue": 386.37
+  },
+  {
+    "month": "2024-09",
+    "item": "Brown Sugar Rice Cake (5)",
+    "count": 68,
+    "revenue": 363.09
+  },
+  {
+    "month": "2024-09",
+    "item": "Vegetable Tossed Ramen",
+    "count": 25,
+    "revenue": 335.76
+  },
+  {
+    "month": "2024-09",
+    "item": "Mai OG Fried Chicken Wings(4)",
+    "count": 56,
+    "revenue": 305.06
+  },
+  {
+    "month": "2024-09",
+    "item": "Golden Kiwi",
+    "count": 68,
+    "revenue": 308.61
+  },
+  {
+    "month": "2024-09",
+    "item": "Pepsi",
+    "count": 98,
+    "revenue": 288.33
+  },
+  {
+    "month": "2024-09",
+    "item": "Crispy Pork Egg Roll(3)",
+    "count": 72,
+    "revenue": 294.48
+  },
+  {
+    "month": "2024-09",
+    "item": "Onion Glory Fried Chicken(8)",
+    "count": 28,
+    "revenue": 283.72
+  },
+  {
+    "month": "2024-09",
+    "item": "Jumbo Chicken Tenders Combo (3)",
+    "count": 26,
+    "revenue": 272.32
+  },
+  {
+    "month": "2024-09",
+    "item": "Mai Buffalo Chicken Wings(8)",
+    "count": 27,
+    "revenue": 274.23
+  },
+  {
+    "month": "2024-09",
+    "item": "Dr. Pepper",
+    "count": 87,
+    "revenue": 257.85
+  },
+  {
+    "month": "2024-09",
+    "item": "Sweet Ice Tea",
+    "count": 78,
+    "revenue": 231.16
+  },
+  {
+    "month": "2024-09",
+    "item": "Steam Pork Bun \uff083\uff09",
+    "count": 33,
+    "revenue": 223.69
+  },
+  {
+    "month": "2024-09",
+    "item": "Specialty Drink",
+    "count": 71,
+    "revenue": 205.59
+  },
+  {
+    "month": "2024-09",
+    "item": "Crispy French Fries(LG)",
+    "count": 52,
+    "revenue": 207.76
+  },
+  {
+    "month": "2024-09",
+    "item": "Sweet Sesame Ball (6) w. red bean",
+    "count": 43,
+    "revenue": 211.83
+  },
+  {
+    "month": "2024-09",
+    "item": "Tangy Honey Mustard Fried Chicken (8)",
+    "count": 18,
+    "revenue": 181.85
+  },
+  {
+    "month": "2024-09",
+    "item": "Pepsi zero",
+    "count": 61,
+    "revenue": 180.29
+  },
+  {
+    "month": "2024-09",
+    "item": "Strawberry Milk Tea",
+    "count": 39,
+    "revenue": 186.22
+  },
+  {
+    "month": "2024-09",
+    "item": "Unsweet Ice Tea",
+    "count": 48,
+    "revenue": 141.77
+  },
+  {
+    "month": "2024-09",
+    "item": "Braised Chicken",
+    "count": 4,
+    "revenue": 109.59
+  },
+  {
+    "month": "2024-09",
+    "item": "Lemonade",
+    "count": 38,
+    "revenue": 111.42
+  },
+  {
+    "month": "2024-09",
+    "item": "Jumbo Chicken Tenders(3)",
+    "count": 18,
+    "revenue": 109.98
+  },
+  {
+    "month": "2024-09",
+    "item": "Chunked Beef",
+    "count": 8,
+    "revenue": 106.24
+  },
+  {
+    "month": "2024-09",
+    "item": "Hot Tea",
+    "count": 37,
+    "revenue": 109.19
+  },
+  {
+    "month": "2024-09",
+    "item": "Lychee Jas-Lemonade",
+    "count": 23,
+    "revenue": 102.87
+  },
+  {
+    "month": "2024-09",
+    "item": "Plain Fried Rice",
+    "count": 25,
+    "revenue": 103.28
+  },
+  {
+    "month": "2024-09",
+    "item": "Mango Jas-Lemonade",
+    "count": 21,
+    "revenue": 88.84
+  },
+  {
+    "month": "2024-09",
+    "item": "Strawberry Jas-Lemonade",
+    "count": 24,
+    "revenue": 93.51
+  },
+  {
+    "month": "2024-09",
+    "item": "White Rice",
+    "count": 27,
+    "revenue": 80.94
+  },
+  {
+    "month": "2024-09",
+    "item": "Starry - Sprite",
+    "count": 22,
+    "revenue": 64.64
+  },
+  {
+    "month": "2024-09",
+    "item": "White Rice - DINE IN",
+    "count": 42,
+    "revenue": 62.75
+  },
+  {
+    "month": "2024-09",
+    "item": "Orange Crush",
+    "count": 18,
+    "revenue": 47.42
+  },
+  {
+    "month": "2024-09",
+    "item": "Rice Noodle",
+    "count": 17,
+    "revenue": 45.55
+  },
+  {
+    "month": "2024-09",
+    "item": "Bottled Soda",
+    "count": 12,
+    "revenue": 35.81
+  },
+  {
+    "month": "2024-09",
+    "item": "Original Jas-Lemonade",
+    "count": 7,
+    "revenue": 32.3
+  },
+  {
+    "month": "2024-09",
+    "item": "Peach Jas-Lemonade",
+    "count": 7,
+    "revenue": 30.52
+  },
+  {
+    "month": "2024-09",
+    "item": "Ramen",
+    "count": 13,
+    "revenue": 32.18
+  },
+  {
+    "month": "2024-09",
+    "item": "Braised Egg \uff082 half\uff09",
+    "count": 16,
+    "revenue": 27.74
+  },
+  {
+    "month": "2024-09",
+    "item": "Pepsi Zero",
+    "count": 6,
+    "revenue": 21.96
+  },
+  {
+    "month": "2024-09",
+    "item": "Blueberry Jas-Lemonade",
+    "count": 5,
+    "revenue": 24.73
+  },
+  {
+    "month": "2024-09",
+    "item": "Braised Pork",
+    "count": 4,
+    "revenue": 12.68
+  },
+  {
+    "month": "2024-09",
+    "item": "Tropical Jas-Lemonade",
+    "count": 3,
+    "revenue": 12.62
+  },
+  {
+    "month": "2024-09",
+    "item": "Ramune - Grape",
+    "count": 3,
+    "revenue": 10.98
+  },
+  {
+    "month": "2024-09",
+    "item": "Ramune - Strawberry",
+    "count": 3,
+    "revenue": 10.98
+  },
+  {
+    "month": "2024-09",
+    "item": "\u5317\u51b0\u6d0b Orange Soda",
+    "count": 2,
+    "revenue": 7.32
+  },
+  {
+    "month": "2024-09",
+    "item": "Braised Egg",
+    "count": 3,
+    "revenue": 6.42
+  },
+  {
+    "month": "2024-09",
+    "item": "Mai\u2018s special Sauce",
+    "count": 5,
+    "revenue": 6.15
+  },
+  {
+    "month": "2024-09",
+    "item": "Bottled Water",
+    "count": 3,
+    "revenue": 5.25
+  },
+  {
+    "month": "2024-09",
+    "item": "Sweet Tea",
+    "count": 1,
+    "revenue": 3.66
+  },
+  {
+    "month": "2024-09",
+    "item": "Ramune - Melon",
+    "count": 1,
+    "revenue": 3.66
+  },
+  {
+    "month": "2024-09",
+    "item": "White Rice-To Go",
+    "count": 2,
+    "revenue": 4.5
+  },
+  {
+    "month": "2024-09",
+    "item": "Mai\u2018s Special Sauce",
+    "count": 1,
+    "revenue": 1.0
+  },
+  {
+    "month": "2024-09",
+    "item": "Water",
+    "count": 2320,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-09",
+    "item": "Sliced Fruit  - 5 day expiration",
+    "count": 1,
+    "revenue": 0.0
+  },
+  {
+    "month": "2024-09",
+    "item": "House Tossed Rice Noodle",
+    "count": 1,
+    "revenue": 15.99
+  }
+]

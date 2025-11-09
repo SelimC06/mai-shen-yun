@@ -1,0 +1,422 @@
+[
+  {
+    "month": "2024-05",
+    "ingredient": "Boychoy(g)",
+    "used_qty": 63650.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-05",
+    "ingredient": "Braised Chicken(g)",
+    "used_qty": 116220.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-05",
+    "ingredient": "Braised Pork(g)",
+    "used_qty": 66520.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-05",
+    "ingredient": "Carrot(g)",
+    "used_qty": 1250.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-05",
+    "ingredient": "Cilantro",
+    "used_qty": 43800.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-05",
+    "ingredient": "Egg(count)",
+    "used_qty": 1220.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-05",
+    "ingredient": "Green Onion",
+    "used_qty": 46300.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-05",
+    "ingredient": "Peas(g)",
+    "used_qty": 1250.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-05",
+    "ingredient": "Pickle Cabbage",
+    "used_qty": 52300.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-05",
+    "ingredient": "Ramen (count)",
+    "used_qty": 1620.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-05",
+    "ingredient": "Rice Noodles(g)",
+    "used_qty": 171000.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-05",
+    "ingredient": "Rice(g)",
+    "used_qty": 43750.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-05",
+    "ingredient": "White onion",
+    "used_qty": 2500.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-05",
+    "ingredient": "braised beef used (g)",
+    "used_qty": 136360.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-06",
+    "ingredient": "Boychoy(g)",
+    "used_qty": 37150.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-06",
+    "ingredient": "Braised Chicken(g)",
+    "used_qty": 64760.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-06",
+    "ingredient": "Braised Pork(g)",
+    "used_qty": 34800.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-06",
+    "ingredient": "Carrot(g)",
+    "used_qty": 770.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-06",
+    "ingredient": "Cilantro",
+    "used_qty": 24620.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-06",
+    "ingredient": "Egg(count)",
+    "used_qty": 692.5,
+    "unit": "g"
+  },
+  {
+    "month": "2024-06",
+    "ingredient": "Green Onion",
+    "used_qty": 26160.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-06",
+    "ingredient": "Peas(g)",
+    "used_qty": 770.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-06",
+    "ingredient": "Pickle Cabbage",
+    "used_qty": 28950.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-06",
+    "ingredient": "Ramen (count)",
+    "used_qty": 890.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-06",
+    "ingredient": "Rice Noodles(g)",
+    "used_qty": 102300.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-06",
+    "ingredient": "Rice(g)",
+    "used_qty": 26950.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-06",
+    "ingredient": "White onion",
+    "used_qty": 1540.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-06",
+    "ingredient": "braised beef used (g)",
+    "used_qty": 80480.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-07",
+    "ingredient": "Boychoy(g)",
+    "used_qty": 40750.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-07",
+    "ingredient": "Braised Chicken(g)",
+    "used_qty": 73000.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-07",
+    "ingredient": "Braised Pork(g)",
+    "used_qty": 38960.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-07",
+    "ingredient": "Carrot(g)",
+    "used_qty": 750.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-07",
+    "ingredient": "Cilantro",
+    "used_qty": 28380.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-07",
+    "ingredient": "Egg(count)",
+    "used_qty": 784.5,
+    "unit": "g"
+  },
+  {
+    "month": "2024-07",
+    "ingredient": "Green Onion",
+    "used_qty": 29880.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-07",
+    "ingredient": "Peas(g)",
+    "used_qty": 750.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-07",
+    "ingredient": "Pickle Cabbage",
+    "used_qty": 32600.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-07",
+    "ingredient": "Ramen (count)",
+    "used_qty": 1067.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-07",
+    "ingredient": "Rice Noodles(g)",
+    "used_qty": 105600.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-07",
+    "ingredient": "Rice(g)",
+    "used_qty": 26250.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-07",
+    "ingredient": "White onion",
+    "used_qty": 1500.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-07",
+    "ingredient": "braised beef used (g)",
+    "used_qty": 94200.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-08",
+    "ingredient": "Boychoy(g)",
+    "used_qty": 44300.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-08",
+    "ingredient": "Braised Chicken(g)",
+    "used_qty": 87060.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-08",
+    "ingredient": "Braised Pork(g)",
+    "used_qty": 51980.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-08",
+    "ingredient": "Carrot(g)",
+    "used_qty": 2320.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-08",
+    "ingredient": "Cilantro",
+    "used_qty": 30920.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-08",
+    "ingredient": "Egg(count)",
+    "used_qty": 1005.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-08",
+    "ingredient": "Green Onion",
+    "used_qty": 35560.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-08",
+    "ingredient": "Peas(g)",
+    "used_qty": 2320.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-08",
+    "ingredient": "Pickle Cabbage",
+    "used_qty": 27300.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-08",
+    "ingredient": "Ramen (count)",
+    "used_qty": 1113.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-08",
+    "ingredient": "Rice Noodles(g)",
+    "used_qty": 129900.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-08",
+    "ingredient": "Rice(g)",
+    "used_qty": 81200.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-08",
+    "ingredient": "White onion",
+    "used_qty": 4640.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-08",
+    "ingredient": "braised beef used (g)",
+    "used_qty": 100600.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-09",
+    "ingredient": "Boychoy(g)",
+    "used_qty": 48900.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-09",
+    "ingredient": "Braised Chicken(g)",
+    "used_qty": 90400.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-09",
+    "ingredient": "Braised Pork(g)",
+    "used_qty": 70360.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-09",
+    "ingredient": "Carrot(g)",
+    "used_qty": 2510.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-09",
+    "ingredient": "Cilantro",
+    "used_qty": 33580.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-09",
+    "ingredient": "Egg(count)",
+    "used_qty": 1090.5,
+    "unit": "g"
+  },
+  {
+    "month": "2024-09",
+    "ingredient": "Green Onion",
+    "used_qty": 38600.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-09",
+    "ingredient": "Peas(g)",
+    "used_qty": 2510.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-09",
+    "ingredient": "Pickle Cabbage",
+    "used_qty": 26350.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-09",
+    "ingredient": "Ramen (count)",
+    "used_qty": 1232.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-09",
+    "ingredient": "Rice Noodles(g)",
+    "used_qty": 134100.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-09",
+    "ingredient": "Rice(g)",
+    "used_qty": 87850.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-09",
+    "ingredient": "White onion",
+    "used_qty": 5020.0,
+    "unit": "g"
+  },
+  {
+    "month": "2024-09",
+    "ingredient": "braised beef used (g)",
+    "used_qty": 99400.0,
+    "unit": "g"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "ingredient": "Beef",
+    "quantity_per_shipment": 40.0,
+    "unit": "lbs",
+    "shipments_per_month": 3.0,
+    "frequency": "weekly"
+  },
+  {
+    "ingredient": "Chicken",
+    "quantity_per_shipment": 40.0,
+    "unit": "lbs",
+    "shipments_per_month": 2.0,
+    "frequency": "weekly"
+  },
+  {
+    "ingredient": "Ramen",
+    "quantity_per_shipment": 50.0,
+    "unit": "rolls",
+    "shipments_per_month": 15.0,
+    "frequency": "biweekly"
+  },
+  {
+    "ingredient": "Rice Noodles",
+    "quantity_per_shipment": 50.0,
+    "unit": "lbs",
+    "shipments_per_month": 2.0,
+    "frequency": "monthly"
+  },
+  {
+    "ingredient": "Flour",
+    "quantity_per_shipment": 50.0,
+    "unit": "lbs",
+    "shipments_per_month": 2.0,
+    "frequency": "monthly"
+  },
+  {
+    "ingredient": "Tapioca Starch",
+    "quantity_per_shipment": 25.0,
+    "unit": "lbs",
+    "shipments_per_month": 1.0,
+    "frequency": "monthly"
+  },
+  {
+    "ingredient": "Rice",
+    "quantity_per_shipment": 50.0,
+    "unit": "lbs",
+    "shipments_per_month": 2.0,
+    "frequency": "Biweekly"
+  },
+  {
+    "ingredient": "Green Onion",
+    "quantity_per_shipment": 20.0,
+    "unit": "lbs",
+    "shipments_per_month": 2.0,
+    "frequency": "weekly"
+  },
+  {
+    "ingredient": "White Onion",
+    "quantity_per_shipment": 80.0,
+    "unit": "whole onion",
+    "shipments_per_month": 4.0,
+    "frequency": "weekly"
+  },
+  {
+    "ingredient": "Cilantro",
+    "quantity_per_shipment": 5.0,
+    "unit": "lbs",
+    "shipments_per_month": 2.0,
+    "frequency": "weekly"
+  },
+  {
+    "ingredient": "Egg",
+    "quantity_per_shipment": 120.0,
+    "unit": "eggs",
+    "shipments_per_month": 5.0,
+    "frequency": "weekly"
+  },
+  {
+    "ingredient": "Peas + Carrot",
+    "quantity_per_shipment": 40.0,
+    "unit": "lbs",
+    "shipments_per_month": 3.0,
+    "frequency": "weekly"
+  },
+  {
+    "ingredient": "Bokchoy",
+    "quantity_per_shipment": 25.0,
+    "unit": "lbs",
+    "shipments_per_month": 5.0,
+    "frequency": "weekly"
+  },
+  {
+    "ingredient": "Chicken Wings",
+    "quantity_per_shipment": 380.0,
+    "unit": "pieces",
+    "shipments_per_month": 10.0,
+    "frequency": "weekly"
+  }
+]
