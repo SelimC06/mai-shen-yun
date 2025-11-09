@@ -57,6 +57,7 @@ const CategoryBarChart: React.FC<Props> = ({ data }) => {
                             axisLine={false}
                             width={150}
                             tick={{ fontSize: 11, fill: "#64748b" }}
+                            fontWeight="bold"
                             interval={0}
                         />
                         <Tooltip
@@ -78,6 +79,7 @@ const CategoryBarChart: React.FC<Props> = ({ data }) => {
                             offset={6}
                             fontSize={11}
                             fill="#000000ff"
+                            fontWeight="bold"
                         />
                         </Bar>
                         </BarChart>

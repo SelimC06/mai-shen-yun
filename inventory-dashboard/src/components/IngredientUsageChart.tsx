@@ -49,6 +49,7 @@ const IngredientUsageChart: React.FC<Props> = ({ data }) => {
                             axisLine={false}
                             width={150}
                             tick={{ fontSize: 11, fill: "#64748b" }}
+                            fontWeight="bold"
                             interval={0}
                         />
                         <Tooltip
@@ -72,6 +73,7 @@ const IngredientUsageChart: React.FC<Props> = ({ data }) => {
                                 position="right"
                                 offset={6}
                                 fontSize={11}
+                                fontWeight="bold"
                                 formatter={(value: any) =>
                                 value >= 1000
                                     ? `${(value / 1000).toFixed(0)}k`

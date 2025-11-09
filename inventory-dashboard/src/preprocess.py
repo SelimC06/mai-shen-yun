@@ -384,10 +384,157 @@ else:
                 }
             )
 
+import math
+from collections import defaultdict
+
+# Build: ingredient -> sorted list of (month_index, used_qty)
+# Map months like "2024-05", "2024-06", ... to indices 0,1,2,...
+all_month_keys = sorted({row["month"] for row in ingredient_usage_rows})
+month_index = {m: i for i, m in enumerate(all_month_keys)}
+
+usage_by_ing = defaultdict(list)
+for row in ingredient_usage_rows:
+    m = row["month"]
+    ing = row["ingredient"]
+    qty = float(row["used_qty"])
+    if m in month_index:
+        usage_by_ing[ing].append((month_index[m], qty))
+
+def linear_forecast(points):
+    """
+    points: list of (x, y)
+    returns forecast_y for x = max_x + 1 using simple linear regression.
+    falls back to last value if not enough points.
+    """
+    if len(points) == 0:
+        return None
+    if len(points) == 1:
+        return points[0][1]
+
+    xs = [p[0] for p in points]
+    ys = [p[1] for p in points]
+    n = len(points)
+    mean_x = sum(xs) / n
+    mean_y = sum(ys) / n
+
+    num = sum((xs[i] - mean_x) * (ys[i] - mean_y) for i in range(n))
+    den = sum((xs[i] - mean_x) ** 2 for i in range(n))
+    slope = num / den if den != 0 else 0.0
+    intercept = mean_y - slope * mean_x
+
+    next_x = max(xs) + 1
+    y_hat = slope * next_x + intercept
+    # avoid negative forecasts
+    return max(y_hat, 0.0)
+
+# Quick lookup for planned shipments (use monthly_quantity_grams if present, else monthly_quantity)
+shipment_plan = {}
+for s in shipments_rows:
+    ing = s["ingredient"]
+    planned = (
+        s.get("monthly_quantity_grams")
+        if s.get("monthly_quantity_grams") is not None
+        else s.get("monthly_quantity")
+    )
+    if planned is None:
+        continue
+    # if multiple rows for same ingredient, sum them
+    shipment_plan[ing] = shipment_plan.get(ing, 0.0) + float(planned)
+
+from collections import defaultdict
+
+# Sorted unique months from usage
+all_month_keys = sorted({row["month"] for row in ingredient_usage_rows})
+month_index = {m: i for i, m in enumerate(all_month_keys)}
+
+usage_by_ing = defaultdict(list)
+for row in ingredient_usage_rows:
+    m = row["month"]
+    ing = row["ingredient"]
+    qty = float(row["used_qty"])
+    if m in month_index:
+        usage_by_ing[ing].append((month_index[m], qty))
+
+def linear_forecast(points):
+    if len(points) == 0:
+        return None
+    if len(points) == 1:
+        return max(points[0][1], 0.0)
+    xs = [p[0] for p in points]
+    ys = [p[1] for p in points]
+    n = len(points)
+    mean_x = sum(xs) / n
+    mean_y = sum(ys) / n
+    num = sum((xs[i] - mean_x) * (ys[i] - mean_y) for i in range(n))
+    den = sum((xs[i] - mean_x) ** 2 for i in range(n))
+    slope = num / den if den != 0 else 0
+    intercept = mean_y - slope * mean_x
+    next_x = max(xs) + 1
+    y_hat = slope * next_x + intercept
+    return max(y_hat, 0.0)
+
+shipment_plan = {}
+for s in shipments_rows:
+    ing = s["ingredient"]
+    planned = (
+        s.get("monthly_quantity_grams")
+        if s.get("monthly_quantity_grams") is not None
+        else s.get("monthly_quantity")
+    )
+    if planned is None:
+        continue
+    shipment_plan[ing] = shipment_plan.get(ing, 0.0) + float(planned)
+
+forecast_rows = []
+
+for base_i, base_month in enumerate(all_month_keys[:-1]):
+    target_month = all_month_keys[base_i + 1]
+    for ing, series in usage_by_ing.items():
+        pts = [(x, y) for (x, y) in series if x <= base_i]
+        if not pts:
+            continue
+        forecast = linear_forecast(pts)
+        if forecast is None:
+            continue
+        first_x, first_y = pts[0]
+        last_x, last_y = pts[-1]
+        slope_simple = (last_y - first_y) / max(last_x - first_x, 1)
+        if first_y > 0 and slope_simple > 0.05 * first_y:
+            trend = "increasing"
+        elif first_y > 0 and slope_simple < -0.05 * first_y:
+            trend = "decreasing"
+        else:
+            trend = "stable"
+
+        planned = shipment_plan.get(ing)
+        if planned and planned > 0:
+            ratio = forecast / planned
+            if ratio >= 1.2:
+                risk = "shortage_risk"
+            elif ratio <= 0.67:
+                risk = "overstock_risk"
+            else:
+                risk = "balanced"
+        else:
+            ratio = None
+            risk = "no_plan"
+
+        forecast_rows.append({
+            "month": base_month,                 # <-- for filtering
+            "forecast_target": target_month,     # next month
+            "ingredient": ing,
+            "forecast_next": round(forecast, 2),
+            "trend": trend,
+            "planned_monthly": round(planned, 2) if planned is not None else None,
+            "forecast_to_plan_ratio": round(ratio, 3) if ratio is not None else None,
+            "risk": risk,
+        })
+
 # =========================================================
 # 5) Write JSONs
 # =========================================================
 
+dump_json("ingredient_demand_forecast.json", forecast_rows)
 dump_json("menu_groups.json", menu_groups_rows)
 dump_json("item_sales.json", item_sales_rows)
 dump_json("item_categories.json", item_categories_rows)

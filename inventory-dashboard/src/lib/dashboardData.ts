@@ -40,6 +40,17 @@ export type Shipment = {
   monthly_quantity_grams: number | null;
 };
 
+export type ForecastRow = {
+  month: string;
+  forecast_target: string;
+  ingredient: string;
+  forecast_next: number;
+  trend: string;
+  planned_monthly: number | null;
+  forecast_to_plan_ratio: number | null;
+  risk: string;
+};
+
 export function normalizeIngredientName(name: string): string {
   return name
     .toLowerCase()

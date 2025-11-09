@@ -1,22 +1,25 @@
 import { useState, useMemo } from 'react';
-import reactLogo from './assets/react.svg';
 import SideBar from './components/sideBar';
 import TopBar from './components/navBar';
 import KPIcards from './components/KPIcards';
 import CategoryBarChart from './components/CategoryBarChart';
 import IngredientUsageChart from './components/IngredientUsageChart';
 import ShipmentVsUsageChart from './components/ShipmentVsUsageChart';
+import InventoryInsights from "./components/InventoryInsights";
 
 import menuGroupsJson from "./data/processed/menu_groups.json";
 import itemSalesJson from "./data/processed/item_sales.json";
 import ingredientUsageJson from "./data/processed/ingredient_usage_timeseries.json";
 import shipmentsJson from "./data/processed/ingredient_shipments.json";
+import forecastJson from "./data/processed/ingredient_demand_forecast.json";
+
 
 import {
   type MenuGroup,
   type ItemSale,
   type IngredientUsage,
   type Shipment,
+  type ForecastRow,
   buildKpis,
 } from "./lib/dashboardData";
 
@@ -24,9 +27,15 @@ const menuGroups = menuGroupsJson as MenuGroup[];
 const itemSales = itemSalesJson as ItemSale[];
 const ingredientUsage = ingredientUsageJson as IngredientUsage[];
 const shipments = shipmentsJson as Shipment[];
+const forecastData = forecastJson as ForecastRow[];
 
 function App() {
   const [selectedMonth, setSelectedMonth] = useState("2024-10");
+
+  const forecastForMonth = useMemo(
+    () => forecastData.filter((f) => f.month === selectedMonth),
+    [selectedMonth]
+  );
 
   const groupsForMonth = useMemo(
     () => menuGroups.filter((g) => g.month === selectedMonth),
@@ -73,10 +82,9 @@ function App() {
 
             <IngredientUsageChart data={usageForMonth}/>
 
-            <ShipmentVsUsageChart
-              usage={usageForMonth}
-              shipments={shipments}
-            />
+            <ShipmentVsUsageChart usage={usageForMonth} shipments={shipments} />
+
+            <InventoryInsights data={forecastForMonth} />
           </main>
         </div>
       </div>
